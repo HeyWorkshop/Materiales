@@ -13,7 +13,7 @@ En éste aprenderás las funciones básicas mediante ejercicios, por lo que al t
 * Usar la terminal en el día a día
 
 # Temas
-*[Comandos básicos](/Page2.md)
-*[Alias en consola](/Page3.md)
-*[Comandos extras](/Page4.md)
-*[Shell Scripting](/Page5.md)
+* [Comandos básicos](/Page2.md)
+* [Alias en consola](/Page3.md)
+* [Comandos extras](/Page4.md)
+* [Shell Scripting](/Page5.md)
