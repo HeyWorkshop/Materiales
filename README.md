@@ -18,4 +18,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
 # Talleres hasta el momento
-* [Mi amiga la terminal](https://github.com/AdrianLeyva/workshop-technology/wiki/Linea-de-comandos)
+* [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
