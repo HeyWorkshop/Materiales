@@ -1,10 +1,6 @@
-# Taller de línea de comandos
-### En este taller aprenderemos a usar la línea de comandos en sistemas Linux y Mac, usando el shell zsh.
+# ¿Qué es BASH?
+es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
 
-# ¿Qué es zsh?
-zsh es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
-
-# Contenido del taller
 ### Archivos y directorios
 --> ls: lista los archivos y directorios.  
 --> cd: cambio de directorio.  
@@ -53,9 +49,3 @@ zsh es un intérprete de comandos para sistemas operativos de tipo Unix, a trav�
 --> ls -a: lista los archivos incluyendo los que se hallan ocultos.  
 ### En clase veremos algunos parámetros que pueden ser anexados a los comandos, y posteriormente se realizarán ejercicios.  
   
-  
-# ¿Cómo configurar tu terminal zsh?  
-Por defecto en las terminales de sistemas Unix viene configurado el shell bash, para configurar zsh debes realizar el siguiente procedimiento:  
-### https://gist.github.com/tsabat/1498393  
-  
-En el link de arriba encontrarás una pequeña guía para configurar tu terminal.
