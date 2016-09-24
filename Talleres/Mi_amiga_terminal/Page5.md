@@ -182,9 +182,9 @@ done
 
 4) Para lanzar el script BASH, primero dale permisos de ejecución. Para ello escribe en tu terminal de comandos:  
 ***
-       **chmod u+x holamundo.sh**  
+chmod u+x holamundo.sh  
 ***
 5) Ejecuta el script escribiendo en la consola:  
 ***
-       *               **./holamundo.sh**  
+./holamundo.sh  
 ***
