@@ -1,5 +1,5 @@
 # ¿Qué es BASH?
-es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
+Es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
 
 ### Archivos y directorios
 --> ls: lista los archivos y directorios.  
