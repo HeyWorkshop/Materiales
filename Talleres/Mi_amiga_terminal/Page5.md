@@ -38,6 +38,34 @@ Para recuperar estos valores escribe $ y a continuación el número de posición
  #  
  echo "Tu primer argumento es" $1  
  echo "Tu segundo argumento es" $2  
+
+***
+##Operaciones aritméticas en BASH  
+**Operador suma**  
+* ((suma=3+5))  
+* ((suma=$var1+$var2))  
+* ((suma=$var1+5))  
+
+**Operador resta**  
+* ((resta=8-2))  
+* ((resta=$var1-$var2))  
+* ((resta=$var1-5))  
+
+**Operador multiplicación**  
+* ((multiplicacion=3*5))  
+* ((multiplicacion=$var1*$var2))  
+* ((multiplicacion=$var1*5))  
+
+**Operador división**  
+* ((division=8/4))  
+* ((division=$var1/$var2))  
+* ((division=$var1/2))
+
+**Operador módulo**  
+* ((modulo=9%2))  
+* ((modulo=$var1%$var2))  
+* ((modulo=$var1%3))  
+
 ***
 ## Comparaciones y expresiones  
 La evaluación de una expresión da como resultado verdadero o falso. Si la comparación o evaluación de la expresión es verdadera se ejecutará el bucle o la condicional, si es falsa la evaluación no se ejecutará.  
