@@ -15,7 +15,7 @@ Nota: el comando **wget** solo funciona en sistemas Linux.
 [![nmap.png](https://s5.postimg.org/h5lx2i8fb/nmap.png)](https://postimg.org/image/qde5j7fhf/)    
 ***  
 ###Comando sudo  
-El comando sudo te permite realizar ciertas acciones en modo root, para instalar programas, actualizarlos y remover paquetes del sistema es necesario ejecutar este comando.  
+El comando sudo te permite realizar ciertas acciones en modo root. Para instalar programas, actualizarlos y remover paquetes del sistema es necesario ejecutar este comando.  
 
 * **sudo apt-get install nombre_paquete:** te permite instalar programas/paquetes.  
 * **sudo apt-get update:** te permite actualizar la lista de paquetes que se hallan en el repositorio.  
