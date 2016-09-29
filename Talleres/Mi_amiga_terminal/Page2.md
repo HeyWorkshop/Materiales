@@ -1,11 +1,6 @@
-# ¿Qué es BASH?
-<<<<<<< HEAD
-es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
-***
-=======
+# ¿Qué es BASH?  
 Es un intérprete de comandos para sistemas operativos de tipo Unix, a través de este shell podremos realizar diversas actividades y manipular el entorno operativo; Manipular y movernos a través de ficheros y sistemas de archivos, controlar ciertos procesos que están ocurriendo en el sistema, etc...
 
->>>>>>> d6d80856a0b213eff89c551a5d9dc4eda75f989d
 ### Archivos y directorios
 ***
  **ls** lista los archivos y directorios.  
@@ -75,4 +70,3 @@ Ejemplo:
 ### Cada comando tiene diversos parámetros con los que se modifica su comportamiento, por ejemplo:  
 --> ls -a: lista los archivos incluyendo los que se hallan ocultos.  
 ### En clase veremos algunos parámetros que pueden ser anexados a los comandos, y posteriormente se realizarán ejercicios.  
-  
