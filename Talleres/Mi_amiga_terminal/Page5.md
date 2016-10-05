@@ -215,4 +215,5 @@ chmod u+x holamundo.sh
 5) Ejecuta el script escribiendo en la consola:  
 ***
 ./holamundo.sh  
-***
+***  
+# [Ejercicios](/Tallers/Mi_amiga_terminal/Page6.md)
