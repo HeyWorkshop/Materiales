@@ -204,7 +204,6 @@ done
       *          echo "Hola mundo"  
       *          # Código y más código...  
   ***
-**La primera línea no es obligatoria pero sirve para documentar con qué shell está hecho el script, el resto es código tuyo.**  
 
 3) Guárdalo como holamundo.sh  
 
