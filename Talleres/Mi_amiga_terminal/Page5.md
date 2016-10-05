@@ -216,4 +216,4 @@ chmod u+x holamundo.sh
 ***
 ./holamundo.sh  
 ***  
-# [Ejercicios](/Tallers/Mi_amiga_terminal/Page6.md)
+# [Ejercicios](/Talleres/Mi_amiga_terminal/Page6.md)
