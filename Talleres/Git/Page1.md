@@ -7,13 +7,13 @@ Git es una herramienta controladora de versiones, usada para el desarrollo de di
 En este taller se enseñará a usar la herramienta Git y sus funcionalidades mediante ejemplos y ejercicios que se realizarán en el momento. Al finalizar serás capaz de controlar versiones de proyectos y sabrás implementar eficientemente la herramienta Git.
 ***
 # Objetivos:  
-
 * Conocer la herramienta Git.
 * Saber implementar Git en el desarrollo de proyectos.
 * Poder manejar versiones de proyectos.
 * Aprender los comandos para manipular Git.
 ***
 
-# Temas:
+# Temas:  
 * --Por definir--
 * --Por definir--
+***
