@@ -3,15 +3,15 @@
 
 ### ¿Qué es Workshop Technology?
 Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software.   
-   
-   
+
+
 ### ¿Cuáles son nuestros objetivos?
 * Formar gente autodidácta.
 * Aprender y enseñar nuevas tecnologías.
 * Facilitar la capacitación necesaria que los ayude a la incorporación al ambiente profesional.
 * Generar vinculación entre estudiantes y personas del ámbito profesional.   
-   
-    
+
+
 ### ¿Qué se necesita para formar parte de los talleres?
 * El alumno debe ser proactivo.
 * El alumno debe estar dispuesto a participar.
@@ -19,3 +19,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 
 # Talleres hasta el momento
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
+* [Aprende a usar git](/Talleres/Git/Page1.md)
