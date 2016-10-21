@@ -10,10 +10,12 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 * Conocer la herramienta Git.
 * Saber implementar Git en el desarrollo de proyectos.
 * Poder manejar versiones de proyectos.
-* Aprender los comandos para manipular Git.
+* Aprender los comandos para manipular Git.  
+
 ***
 
 # Temas:  
 * --Por definir--
-* --Por definir--
+* --Por definir--  
+
 ***
