@@ -16,6 +16,6 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 
 # Temas:  
 * [¿Qué es git y cómo usarlo?](/Talleres/Git/Page2.md)
-* [Plataformas remotas(GitHub, Bitbucket)](/Talleres/Git/Page2.md)
+* [Repositorios remotos(GitHub, Bitbucket)](/Talleres/Git/Page3.md)
 
 ***
