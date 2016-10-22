@@ -17,3 +17,4 @@ En éste aprenderás las funciones básicas mediante ejercicios, por lo que al t
 * [Alias en consola](/Talleres/Mi_amiga_terminal/Page3.md)
 * [Comandos extras](/Talleres/Mi_amiga_terminal/Page4.md)
 * [Shell Scripting](/Talleres/Mi_amiga_terminal/Page5.md)
+* [Ejercicios básicos](/Talleres/Mi_amiga_terminal/Ejercicios.md)
