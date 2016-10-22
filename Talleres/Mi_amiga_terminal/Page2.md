@@ -18,6 +18,8 @@ Es un intérprete de comandos para sistemas operativos de tipo Unix, a través d
 --> chown: cambio de propietario.  
 --> vi: edita archivos de texto desde consola.  
 
+[Ejercios](/Talleres/Mi_amiga_terminal/Ejercicios.md)
+
 ### Usuarios  
 --> passwd: permite cambiar la contraseña.  
 --> whoami: muestra el nombre de usuario.  
