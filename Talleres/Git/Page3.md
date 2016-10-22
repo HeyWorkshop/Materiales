@@ -1,4 +1,4 @@
-# **Repositorios remotos (GitGub y Bitbucket)**  
+# **Repositorios remotos (GitHub y Bitbucket)**  
 Para poder colaborar en el desarrollo de un proyecto implementando Git, es necesario que sepas gestionar tus repositorios remotos, estos te permitirán trabajar en conjunto con tu equipo de trabajo.  
 
 Los repositorios remotos son versiones del proyecto alojados en la nube, que a diferencia de los repositorios locales, estos permiten que diversas personas colaboren y trabajen en el mismo proyecto facilitando y agilizando el desarrollo de este. De esta manera se pueden asignar ciertas funcionalidades a algún segmento del equipo para que cada parte contribuya en la integración del proyecto.  
