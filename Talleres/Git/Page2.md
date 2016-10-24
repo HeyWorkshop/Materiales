@@ -16,9 +16,8 @@ Nos permite:
 * **Staging area:** Aquí es donde escogemos que archivos están listos para pasar al tercer estado, al igual que decidimos que archivos no están listos por el momento.
 * **Repository:** Aquí es el registro de todo nuestro proyecto.
  
-![Estados de trabajo](Talleres/Git/Images/States.png)
 ![Estados de trabajo](Images/States.png)
 
-![Workflow](Talleres/Git/Images/Workflow.png)
+![Workflow](Images/Workflow.png)
 
-## [Anterior](Talleres/Git/Page1.md)  --  [Siguiente](Talleres/Git/Page3.md)
+## [Anterior](Page1.md)  --  [Siguiente](Page3.md)

@@ -47,7 +47,7 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 `$ git config --global color.ui true`
 
-* **Define tu editor de texto :document:**
+* **Define tu editor de texto**
 
 `$ git config --global core.editor nano`
 
@@ -55,4 +55,4 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 `$ git config --global --list`
 
-## [Anterior](Talleres/Git/Page2.md)  --  [Siguiente](Talleres/Git/Page4.md)
+## [Anterior](Page2.md)  --  [Siguiente](Page4.md)

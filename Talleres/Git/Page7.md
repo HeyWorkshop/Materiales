@@ -32,4 +32,4 @@ https://bitbucket.org/
 ***
 # **Trabajando con repositorios remotos usando Git**  
 
-## [Anterior](Talleres/Git/Page6.md)  --  [Siguiente](Talleres/Git/Page8.md)
+## [Anterior](Page6.md)  --  [Siguiente](Page8.md)

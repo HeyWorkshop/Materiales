@@ -24,4 +24,4 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 
 ***
 
-## [Siguiente](Talleres/Git/Page2.md)
+## [Siguiente](Page2.md)

@@ -1,1 +1,1 @@
-## [Anterior](Talleres/Git/Page4.md)  --  [Siguiente](Talleres/Git/Page6.md)
+## [Anterior](Page4.md)  --  [Siguiente](Page6.md)

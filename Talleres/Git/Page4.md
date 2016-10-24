@@ -48,6 +48,6 @@ Los archivos **sin seguimiento** son todos los demás —cualquier archivo de tu
 
 A medida que editas archivos, Git los ve como modificados, porque los has cambiado desde tu última confirmación. Preparas estos archivos modificados y luego confirmas todos los cambios que hayas preparado, y el ciclo se repite.
 
-![File Status](Talleres/Git/Images/filestatus.jpg)
+![File Status](Images/filestatus.jpg)
 
-## [Anterior](Talleres/Git/Page3.md)  --  [Siguiente](Talleres/Git/Page5.md)
+## [Anterior](Page3.md)  --  [Siguiente](Page5.md)
