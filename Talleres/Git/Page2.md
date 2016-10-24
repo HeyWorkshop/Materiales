@@ -17,5 +17,8 @@ Nos permite:
 * **Repository:** Aquí es el registro de todo nuestro proyecto.
  
 ![Estados de trabajo](Talleres/Git/Images/States.png)
+![Estados de trabajo](Images/States.png)
 
 ![Workflow](Talleres/Git/Images/Workflow.png)
+
+## [Anterior](Talleres/Git/Page1.md)  --  [Siguiente](Talleres/Git/Page3.md)
