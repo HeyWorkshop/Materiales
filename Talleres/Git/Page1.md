@@ -19,7 +19,7 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 * [Instalación y configuración](/Talleres/Git/Page3.md)
 * [Lo escencial](/Talleres/Git/Page4.md)
 * [Ramas y fusiones](/Talleres/Git/Page5.md)
-* [¿Qué es git y cómo usarlo?](/Talleres/Git/Page6.md)
+* [Fusiones](/Talleres/Git/Page6.md)
 * [Repositorios remotos(GitHub, Bitbucket)](/Talleres/Git/Page7.md)
 
 ***

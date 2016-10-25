@@ -14,6 +14,7 @@
 `$ dnf install git`     (Fedora 22 and later)
 
 * **Arch Linux**
+
 `$ pacman -S git`
 
 ###MacOs / OsX
@@ -54,5 +55,7 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 * **Ver nuestras configuraciones globales :wrench:**
 
 `$ git config --global --list`
+
+***
 
 ## [Anterior](Page2.md)  --  [Siguiente](Page4.md)
