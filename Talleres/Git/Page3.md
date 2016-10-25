@@ -55,4 +55,6 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 `$ git config --global --list`
 
+***
+
 ## [Anterior](Page2.md)  --  [Siguiente](Page4.md)

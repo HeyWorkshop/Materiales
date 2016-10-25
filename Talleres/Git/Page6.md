@@ -1,35 +1,55 @@
-# **Repositorios remotos (GitHub y Bitbucket)**  
-Para poder colaborar en el desarrollo de un proyecto implementando Git, es necesario que sepas gestionar tus repositorios remotos, estos te permitirán trabajar en conjunto con tu equipo de trabajo.  
+#Fusiones (Merge)
+####¿Qué es?
+Es la creación de un nuevo commit juntando una rama con otra.
 
-Los repositorios remotos son versiones del proyecto alojados en la nube, que a diferencia de los repositorios locales, estos permiten que diversas personas colaboren y trabajen en el mismo proyecto facilitando y agilizando el desarrollo de este. De esta manera se pueden asignar ciertas funcionalidades a algún segmento del equipo para que cada parte contribuya en la integración del proyecto.  
+![Merge](Images/merge.png)
+
+####¿Cómo se hace?
+
+1. Te sitúas en la rama que va a absorber (**haces checkout**)
+2. Usas el comando `merge` para fusionarlos
+
+`$ git merge <Nombre de la rama por absorber>`
+
+###Tipos de fusiones (Merge)
+
+#### **Fast-Forward**
+
+Simple y automático. Solo va a hacer la fusión, esto pasa normalmente cuando se trabaja con archivos diferentes o líneas de código distintas. **No hay conflictos**
+
+![Fast Forward Merged](Images/fastforward.png)
+
 ***
-#GitHub  
-[![github-mark.png](https://s5.postimg.org/suu4vwwtj/github_mark.png)](https://postimg.org/image/yvrtszjfn/)  
-GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.  
-### Características:  
-* Tienes un perfil que define tu rol.
-* Te permite crear un wiki para tus proyectos.
-* Puedes alojar tus proyectos en la nube.
-* Te permite trabajar de manera colaborativa.
-* Posee herramientas que permiten verificar el desarrollo de los proyectos de manera gráfica (Tablas, gráficas...).  
-* Repositorios públicos y privados(Los privados son de paga)
 
-**Más acerca de GitHub:**  
-https://github.com/about  
+#### **Manual Merge**
+Largo y manual. Antes de hacer la fusión tiene que pasar por nosotros, normalmente ocurre cuando se trabaja en los mismos archivos o líneas de códigos. **Hay conflictos**
+
+![Manual merge](Images/3way.png)
+
+##Conflictos
+
+Algunas veces la unión de dos ramas no resulta tan bien, sino que ocurre un conflicto, esto cuando los commits de la rama a fusionar y la rama actual modifican la misma parte en un archivo en particular y git no puede decidir cuál versión elegir, y te avisa que tu debes resolverlo.
+
+**Impresión en consola**
+
+```
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+```
+
+Git nos proporciona una ayuda diciéndonos que archivo tiene el conflicto, el cual al abrirlo nos muestra cuáles son los cambios tanto de una rama como de la otra:
+
+![conflicto](Images/conflict.png)
+
+donde tenemos que elegir entre lo que está entre <<<<<<< HEAD y ======= que es contenido que tenemos en la rama donde estamos haciendo el merge (master) o entre ======= y >>>>>>> contenido donde están los cambios hechos en la rama que queremos unir (contenido).
+
+Para ello arreglamos el archivo con los cambios elegidos, guardamos, agregamos y hacemos commit de los cambios.
+
+* Para deshacer un merge
+
+`$ git reset --merge ORIG_HEAD`
+
 ***
-
-#Bitbucket  
-[![bitbucket_navy_400x400.png](https://s5.postimg.org/adzq53gvb/bitbucket_navy_400x400.png)](https://postimg.org/image/grot8clr7/)  
-Bitbucket es un servicio de alojamiento en la nube para proyectos que utilizan los sistemas de control de versiones Mercurial y Git.  
-### Características:  
-* Puedes alojar tus proyectos en la nube.
-* Te permite trabajar de manera colaborativa.
-* Puedes crear repositorios públicos y privados (Gratuitos, con ciertas limitaciones).
-* Puedes crear equipos de desarrollo.  
-
-**Más sobre Bitbucket:**  
-https://bitbucket.org/
-***
-# **Trabajando con repositorios remotos usando Git**  
 
 ## [Anterior](Page5.md)  --  [Siguiente](Page7.md)

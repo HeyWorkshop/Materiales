@@ -20,4 +20,6 @@ Nos permite:
 
 ![Workflow](Images/Workflow.png)
 
+***
+
 ## [Anterior](Page1.md)  --  [Siguiente](Page3.md)

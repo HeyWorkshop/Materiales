@@ -50,4 +50,6 @@ A medida que editas archivos, Git los ve como modificados, porque los has cambia
 
 ![File Status](Images/filestatus.jpg)
 
+***
+
 ## [Anterior](Page3.md)  --  [Siguiente](Page5.md)
