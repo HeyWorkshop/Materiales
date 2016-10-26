@@ -7,8 +7,8 @@ Este comando marca el inicio de nuestro proyecto, aquí le decimos a Git que emp
 * `$ git status`
 Estado de nuestro proyecto.
 
-* `$ git add` 
-Con este comando decidimos que archivos están listos para el siguiente paso.
+* `$ git add <Nombre del archivo/Path del archivo>` 
+Con este comando decidimos qué archivos están listos para el siguiente paso. **Nota:** Añadiendo <.> se agrega todo lo de la carpeta.
 
 * `$ git commit -m "Mensaje del commit"`
 Guardamos los cambios con un mensaje para identificarlos. 
@@ -21,7 +21,7 @@ Nos da una lista de todos los commits de la **rama actual** con su respectiva in
 * `$ git reflog`
 Nos da una lista de todos los commits del **repositorio** con su respectiva información.
 
-* `$ git checkout`
+* `$ git checkout <Nombre de la rama o identificador del commit>`
 Con este comando viajamos a través de nuestros commits o nuestras ramas.
  ***
 
