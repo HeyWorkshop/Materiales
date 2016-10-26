@@ -13,8 +13,8 @@ Nos permite:
 ##Estados de trabajo
 
 * **Working directory:** Aquí es donde editamos y trabajamos con nuestros proyectos.
-* **Staging area:** Aquí es donde escogemos que archivos están listos para pasar al tercer estado, al igual que decidimos que archivos no están listos por el momento.
-* **Repository:** Aquí es el registro de todo nuestro proyecto.
+* **Staging area:** Aquí es donde escogemos que archivos están listos para pasar al tercer estado, al igual que decidimos qué archivos no están listos por el momento.
+* **Repository:** Aquí está el registro de todo nuestro proyecto.
  
 ![Estados de trabajo](Images/States.png)
 

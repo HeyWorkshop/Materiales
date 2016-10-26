@@ -28,7 +28,7 @@ Largo y manual. Antes de hacer la fusión tiene que pasar por nosotros, normalme
 
 ##Conflictos
 
-Algunas veces la unión de dos ramas no resulta tan bien, sino que ocurre un conflicto, esto cuando los commits de la rama a fusionar y la rama actual modifican la misma parte en un archivo en particular y git no puede decidir cuál versión elegir, y te avisa que tu debes resolverlo.
+Algunas veces la unión de dos ramas no resulta tan bien, sino que ocurre un conflicto, esto pasa cuando los commits de la rama a fusionar y la rama actual modifican la misma parte en un archivo en particular y git no puede decidir cuál versión elegir, y te avisa que tú debes resolverlo.
 
 **Impresión en consola**
 
@@ -52,4 +52,4 @@ Para ello arreglamos el archivo con los cambios elegidos, guardamos, agregamos y
 
 ***
 
-## [Anterior](Page5.md)  --  [Siguiente](Page7.md)
+## [Anterior](Page5.md)

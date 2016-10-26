@@ -38,11 +38,11 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 * **Define tu nombre :boy:**
 
-`$ git config --global user.name "Tu nombre"`
+`$ git config --global user.name <Tu nombre>`
 
 * **Define tu correo :email:**
 
-`$ git config --global user.email "Tu correo"`
+`$ git config --global user.email <Tu correo>`
 
 * **Dale color :smile:**
 
@@ -50,7 +50,7 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 * **Define tu editor de texto**
 
-`$ git config --global core.editor nano`
+`$ git config --global core.editor <Tu editor de texto (ejemplo: nano)>`
 
 * **Ver nuestras configuraciones globales :wrench:**
 

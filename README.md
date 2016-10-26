@@ -19,4 +19,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 
 # Talleres hasta el momento
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
-* [Aprende a usar git](/Talleres/Git/Page1.md)
+* [Mi amigo Git](/Talleres/Git/Page1.md)
