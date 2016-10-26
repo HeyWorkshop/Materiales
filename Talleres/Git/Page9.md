@@ -38,4 +38,4 @@ Ahora, si deseas eliminar algún remoto, solo debes ejecutar:
 **Visualizar ramas remotas**  
 
 
-## [Anterior](Page7.md)  --  [Siguiente](Page8.md)
+## [Anterior](Page7.md)  --  [Siguiente](Page10.md)
