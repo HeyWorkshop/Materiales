@@ -30,4 +30,4 @@ Bitbucket es un servicio de alojamiento en la nube para proyectos que utilizan l
 **Más sobre Bitbucket:**  
 https://bitbucket.org/
 ***
-## [Anterior](Page6.md)  --  [Siguiente](Page8.md)
+## [Anterior](Page1.md)  --  [Siguiente](Page8.md)
