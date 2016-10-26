@@ -31,7 +31,7 @@ Si ya has creado un repositorio local, puedes enlazarlo con un repositorio remot
 [![addremote.png](https://s5.postimg.org/sf52xo6qv/addremote.png)](https://postimg.org/image/ey84eswf7/)  
 
 Ahora, si deseas eliminar algún remoto, solo debes ejecutar:  
-<code>git remote rm nombre_remoto url_remoto</code>  
+<code>git remote rm nombre_remoto</code>  
 
 [![rmremote.png](https://s5.postimg.org/5eyflc8x3/rmremote.png)](https://postimg.org/image/y4lbhzcwz/)  
 ***
