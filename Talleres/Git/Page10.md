@@ -9,7 +9,7 @@ Digamos que en un proyecto "X" que no es nuestro, surge algún bug y tú te das 
 
 [![fork_button.jpg](https://s5.postimg.org/daehgn5t3/fork_button.jpg)](https://postimg.org/image/7m86pr1gj/)  
 
-Un **fork** es una copia exacta de un repositorio externo, y que se anexa a nuestros repositorios pero con distinta URL. De esta manera podemos trabajar sobre un proyecto sin afectar al repositorio original.   
+Un **fork** es una copia exacta de un repositorio externo, que se anexa a nuestros repositorios pero con distinta URL. De esta manera podemos trabajar sobre un proyecto sin afectar al repositorio original.   
 
 **¿Qué diferencia hay entre un fork y un clon?**  
 
@@ -29,7 +29,7 @@ Un pull request es una petición que realiza el propietario de un fork de un rep
 
 * Se debe especificar qué cambios se realizaron y cuál fue el problema que se solucionó o la funcionalidad que se agregó.
 
-* Debe especificar qué rama desea incorporar.
+* Debe especificar qué rama desea incorporar y a cuál rama del repositorio original desea agregarla.
 
 
 El propietario del repositorio original deberá analizar los cambios y decidir si serán aceptados o no.  
