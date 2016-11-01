@@ -29,7 +29,7 @@ Un pull request es una petición que realiza el propietario de un fork de un rep
 
 * Se debe especificar qué cambios se realizaron y cuál fue el problema que se solucionó o la funcionalidad que se agregó.
 
-* Debe especificar qué rama desea incorporar y a cuál rama del repositorio original desea agregarla.
+* Debe especificar qué rama desea incorporar y con cuál rama del repositorio original desea mezclarla.
 
 
 El propietario del repositorio original deberá analizar los cambios y decidir si serán aceptados o no.  
