@@ -1,5 +1,6 @@
 # Issues  
   
+[![issues.png](https://s11.postimg.org/djv2izb83/issues.png)](https://postimg.org/image/o6ovoejdb/)
 Los **Issues** son maneras de hacer seguimiento a errores, asignar tareas a algún colaborador o para realizar mejoras. Digamos que surge algún bug en el proyecto, un usuario externo podría reportar este error, y una vez que el propietario del repositorio lo note entonces podrá asignar la tarea de repararlo a algún colaborador, esto también a tráves de un issue.  
   
 **Características de los issues**  
