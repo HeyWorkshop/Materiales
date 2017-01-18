@@ -9,19 +9,26 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 # Objetivos  
 * Conocer la herramienta Git.
 * Saber implementar Git en el desarrollo de proyectos.
-* Aprender los comandos para manipular Git. 
+* Aprender los comandos para manipular Git.
 * Poder manejar versiones de proyectos.
- 
+
 
 ***
 
 # Temas  
+### Taller de Git (primera parte)
 * [Introducción a Git](/Talleres/Git/Page2.md)
 * [Instalación y configuración](/Talleres/Git/Page3.md)
 * [Lo escencial](/Talleres/Git/Page4.md)
 * [Ramas](/Talleres/Git/Page5.md)
-* [Fusiones](/Talleres/Git/Page6.md)
+* [Fusiones](/Talleres/Git/Page6.md)  
 
+###Taller de Git (segunda parte)  
+* [Introducción a repositorios remotos](/Talleres/Git/Page7.md)
+* [¿Qué es GitHub y cómo funciona?](/Talleres/Git/Page8.md)
+* [Trabajar con repositorios remotos](/Talleres/Git/Page9.md)
+* [Forks y pull request](/Talleres/Git/Page10.md)
+* [Issues](/Talleres/Git/Page11.md)  
 
 ***
 
