@@ -10,6 +10,8 @@ Utlizaremos 2 repositorios open source externos para experimentar con el desplie
 
 Para cada una de estas aplicaciones primero ejecutaremos las aplicaciones de forma local en nuestra computadora y luego la subiremos a Heroku para que todos podamos acceder por medio de un navegador web.
 
+**Nota:** Es necesario que tengas configurada tu llave pública y la asocies con tu cuenta de Github para clonar el repositorio por medio de SSH. Para esto puedes revisar [la documentación de Github](https://help.github.com/articles/checking-for-existing-ssh-keys/)
+
 ### A NodeJS chat
 
 Primero debemos correr de forma local el proyecto, para ello haremos lo siguiente:
@@ -28,7 +30,6 @@ Ahora, debemos hacer el despliegue a heroku
 ```
 $ heroku login
 $ heroku create
-$ heroku addons:add redistogo:nano
 $ git push heroku master
 $ heroku open
 ```
