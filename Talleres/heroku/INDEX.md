@@ -9,7 +9,7 @@ Este taller está hecho para introducir a las personas al uso de Heroku para el 
 * Entender que puedo hacer con Heroku.
 * Configurar e instalar herramientas para el uso de Heroku.
 * Desplegar aplicaciones a un servidor remoto.
-* Solucionar problemas durante el despligue de aplicaciones.
+* Solucionar problemas durante el despliegue de aplicaciones.
 
 # Temas
 

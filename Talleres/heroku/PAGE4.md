@@ -2,7 +2,7 @@
 
 Es momento de poner en práctica todos los conocimientos base y experimentar con el despliegue de aplicaciones hacia Heroku.
 
-Utlizaremos 2 repositorios open source externos para experimentar con el despligue de aplicaciones.
+Utlizaremos 2 repositorios open source externos para experimentar con el despliegue de aplicaciones.
 * [A NodeJS todo list](https://github.com/amirrajan/nodejs-todo)
 * [A NodeJS chat](https://github.com/amirrajan/nodejs-chat)
 
@@ -23,7 +23,7 @@ $ node start.js
 
 Finalmente podemos entrar a `http://localhost:3000` y ver la aplicación en acción.
 
-Ahora, debemos hacer el despligue a heroku
+Ahora, debemos hacer el despliegue a heroku
 
 ```
 $ heroku login
@@ -97,7 +97,7 @@ $ node server.js
 
 Finalmente podemos entrar a `http://localhost:3000` y ver la aplicación en acción.
 
-Ahora, debemos hacer el despligue a heroku
+Ahora, debemos hacer el despliegue a heroku
 
 ```
 $ heroku login

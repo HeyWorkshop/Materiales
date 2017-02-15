@@ -31,7 +31,9 @@ $ git add --all
 $ git commit -m "First commit"
 ```
 
-## Despligue de una aplicación en Heroku
+## Despliegue de una aplicación en Heroku
+
+![Despliegue Heroku](assets/fromherokutofinalusers.png)
 
 **Nota:** Dependiendo el lenguaje de programación que uses, tu proyecto puede necesitar un archivo de configuración diferente para que le digamos a Heroku como ejecutar diferentes partes de nuestra aplciación. Puedes revisar la [documentación de Heroku](https://devcenter.heroku.com/articles/procfile) para más información.
 
