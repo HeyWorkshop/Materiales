@@ -24,3 +24,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
 * [Lo básico de Firebase](/Talleres/firebase/index.md)
 * [Lo básico de Heroku](/Talleres/heroku/INDEX.md)
+* [Conoce Atom - El editor de text de GitHub](/Talleres/Taller-Atom/README.md)
