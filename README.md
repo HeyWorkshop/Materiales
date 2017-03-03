@@ -1,5 +1,5 @@
 # ¡Bienvenidos a Workshop Technology!
-![Logo WT](http://s5.postimg.org/y0gavif1z/logo_workshop_vf.png)
+![Logo WT](./Imagenes/logo.png)
 
 ### ¿Qué es Workshop Technology?
 Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software.   
@@ -24,4 +24,5 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
 * [Lo básico de Firebase](/Talleres/firebase/index.md)
 * [Lo básico de Heroku](/Talleres/heroku/INDEX.md)
-* [Conoce Atom - El editor de text de GitHub](/Talleres/Taller-Atom/README.md)
+* [Conoce Atom - El editor de texto de GitHub](/Talleres/Taller-Atom/README.md)
+* [Conoce Latex - Crea documentos de calidad](/Talleres/IntroduccionLatex/index.md)
