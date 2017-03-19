@@ -2,11 +2,11 @@
 ![Logo WT](./Imagenes/logo.png)
 
 ### ¿Qué es Workshop Technology?
-Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software.   
+Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software, para posteriormente participar por un internship con nuestros partners asociados, durante el verano.   
 
 
 ### ¿Cuáles son nuestros objetivos?
-* Formar gente autodidácta.
+* Formar gente autodidacta.
 * Aprender y enseñar nuevas tecnologías.
 * Facilitar la capacitación necesaria que los ayude a la incorporación al ambiente profesional.
 * Generar vinculación entre estudiantes y personas del ámbito profesional.   
