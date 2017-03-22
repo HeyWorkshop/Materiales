@@ -1,5 +1,39 @@
-# Flex-Box
+# Configuración e instalación
 
-Foundation incorpora la característica *flex-box*, que es un modo de diseño que nos permite crear estructuras para sitios web de una forma mas fácil. *Recuerda que ésta característica aún no es soportada por todos los navegadores.* Sin embargo con el uso de herramientas o plugins externos como POSTCSS se puede arreglar.
+La siguiente configuración es recomendado para páginas de contenido estático.
+
+Las páginas de contenido estático son aquellas donde el texto permanece de forma permanente, y solo puede ser actualizado por el desarrollador o administrador web.
+
+Si te gustan las emociones fuertes, la empresa Zurb que desarrolló Foundation nos tiene un stack te tecnologías ya preparado. [Conoce más aquí](http://foundation.zurb.com/sites/docs/installation.html)
+
+#### 1. Ingresamos a la página principal de Foundation.
+
+http://foundation.zurb.com
+
+![](assets/img1.png)
+
+#### 2. Damos click en ***Download Foundation 6***, lo cual nos llevara a esta página
+
+![](assets/img2.png)
+
+#### 3. En la parte ***Customize foundation*** lo único que cambiaremos será ***grid*** por ***Flex-grid***
+
+![](assets/img3.png)
+
+#### 4. Finalmente, hacemos click en la opción ***Download Custom Build***, la cual nos bajará un archivo .zip que hay que descomprimir
+
+![](assets/img4.png)
+
+### 5. Finalmente, renombremos este archivo con el nombre de nuestro proyecto.
+
+![](assets/img5.png)
+
+![](assets/img6.png)
+
+## Listo! Ya tenemos nuestro entorno de trabajo.
+
+Abre el directorio en tu editor de texto favorito. El mio es atom ❤️
+
+![](assets/img7.png)
 
 #### [Anterior](page2.md) - - [Siguiente](page4.md)

@@ -1,29 +1,24 @@
-# Foundation font-icons
+# Acerca de nuestro directorio
 
-Una de las características que más me gusta de Foundation es que maneja un paquete de iconos, esto es una gran ventaja ya que nos ahorra estar buscando iconos para nuestra pagina por toda la ***World Wide Web***
+Debido a que nuestro proyecto se basa en una pagina de contenido estático (de momento), nuestra estructura es muy simple. Veamos
 
-### Agrengando el paquete de iconos a nuestro proyecto
+## index.html
 
-#### 1. Nos dirigimos al enlace para descargar el paquete de iconos. Damos click en ***Download de Font***
+La primera parte que debemos conocer es nuestro archivo **index.html** en el cual tendremos alojada la estructura de nuestro proyecto.
 
-http://zurb.com/playground/foundation-icon-fonts-3
+![](assets/dir1.png)
 
-![](assets/icon1.png)
+## app.css
+Nuestro archivo **app.css** es el que nos permitirá agregar los estilos a nuestra página web.
 
-#### 2. Una vez descomprimido el archivo, simplemente lo arrastraremos a la carpeta de nuestro proyecto
+![](assets/dir2.png)
 
-![](assets/icon2.png)
+## app.js
+Por último pero no menos importante será nuesto archivo **app.js** el cual nos permitirá agregar la interactividad. A diferencia del anterior vemos que este no está completamente vacio. Esa única linea de código solo es una referencia a [jquery](https://jquery.com), efectivamente, podemos utilizar [jquery](https://jquery.com) en nuestro proyecto 😄, sin embargo, para este curso no le daremos importancia 😞.
 
-![](assets/icon3.png)
+![](assets/dir3.png)
 
-#### 3. Por ultimo, el paso más importante.
-
-Crearemos una etiqueta **link** en nuestro archivo **index.html** de esta manera:
-
-![](assets/icon4.png)
-
-## Listo! Nuestro proyecto ya cuenta con el paquete de iconos.
-
-Antes de aprender a usarlos, primero conozcamos la [estructura de nuestro proyecto.](page6.md)
+## Y los demás archivos ?
+Los demás archivos son dependencias que requiere Foundation para su funcionamiento por lo que es necesario tenerlos ahi donde están, así que no te preocupes, tenemos 3 archivos para divertirnos! 😄.
 
 #### [Anterior](page4.md) - - [Siguiente](page6.md)

@@ -16,10 +16,10 @@ Foundation es un framework que permite agregar estilos y comportamientos a un si
 
 ## Temas
 * [Conceptos Básicos](/Talleres/foundation/page2.md)
-* [Flex-Box](/Talleres/foundation/page3.md)
-* [Configuración e Instalación](/Talleres/foundation/page4.md)
-* [Foundation font-icons](/Talleres/foundation/page5.md)
-* [Acerca de nuestro directorio](/Talleres/foundation/page6.md)
-* [Como funciona Foundation](/Talleres/foundation/page7.md)
+* [Configuración e Instalación](/Talleres/foundation/page3.md)
+* [Foundation font-icons](/Talleres/foundation/page4.md)
+* [Acerca de nuestro directorio](/Talleres/foundation/page5.md)
+* [Como funciona Foundation](/Talleres/foundation/page6.md)
+* [Flex-Box](/Talleres/foundation/page7.md)
 
 #### [Siguiente](page2.md)

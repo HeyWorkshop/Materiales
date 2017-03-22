@@ -1,39 +1,29 @@
-# Configuración e instalación
+# Foundation font-icons
 
-La siguiente configuración es recomendado para páginas de contenido estático.
+Una de las características que más me gusta de Foundation es que maneja un paquete de iconos, esto es una gran ventaja ya que nos ahorra estar buscando iconos para nuestra pagina por toda la ***World Wide Web***
 
-Las páginas de contenido estático son aquellas donde el texto permanece de forma permanente, y solo puede ser actualizado por el desarrollador o administrador web.
+### Agrengando el paquete de iconos a nuestro proyecto
 
-Si te gustan las emociones fuertes, la empresa Zurb que desarrolló Foundation nos tiene un stack te tecnologías ya preparado. [Conoce más aquí](http://foundation.zurb.com/sites/docs/installation.html)
+#### 1. Nos dirigimos al enlace para descargar el paquete de iconos. Damos click en ***Download de Font***
 
-#### 1. Ingresamos a la página principal de Foundation.
+http://zurb.com/playground/foundation-icon-fonts-3
 
-http://foundation.zurb.com
+![](assets/icon1.png)
 
-![](assets/img1.png)
+#### 2. Una vez descomprimido el archivo, simplemente lo arrastraremos a la carpeta de nuestro proyecto
 
-#### 2. Damos click en ***Download Foundation 6***, lo cual nos llevara a esta página
+![](assets/icon2.png)
 
-![](assets/img2.png)
+![](assets/icon3.png)
 
-#### 3. En la parte ***Customize foundation*** lo único que cambiaremos será ***grid*** por ***Flex-grid***
+#### 3. Por ultimo, el paso más importante.
 
-![](assets/img3.png)
+Crearemos una etiqueta **link** en nuestro archivo **index.html** de esta manera:
 
-#### 4. Finalmente, hacemos click en la opción ***Download Custom Build***, la cual nos bajará un archivo .zip que hay que descomprimir
+![](assets/icon4.png)
 
-![](assets/img4.png)
+## Listo! Nuestro proyecto ya cuenta con el paquete de iconos.
 
-### 5. Finalmente, renombremos este archivo con el nombre de nuestro proyecto.
-
-![](assets/img5.png)
-
-![](assets/img6.png)
-
-## Listo! Ya tenemos nuestro entorno de trabajo.
-
-Abre el directorio en tu editor de texto favorito. El mio es atom ❤️
-
-![](assets/img7.png)
+Antes de aprender a usarlos, primero conozcamos la [estructura de nuestro proyecto.](page6.md)
 
 #### [Anterior](page3.md) - - [Siguiente](page5.md)
