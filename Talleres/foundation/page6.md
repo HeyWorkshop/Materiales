@@ -85,7 +85,7 @@ agregemos unos cuantos más...
 </section>
 ```
 
-¿Te fijaste que cada `<div class="column"</div>` lo coloqué dentro de `<div class="row"</div>`?, como mencionamos las `.column` viven dentro de las `.row` de tal forma que nuestras filas son nuestras cajas y las columna nuestro contenido.
+¿Te fijaste que cada `<div class="column"></div>` lo coloqué dentro de `<div class="row"></div>`?, como mencionamos las `.column` viven dentro de las `.row` de tal forma que nuestras filas son nuestras cajas y las columna nuestro contenido.
 
 Ahora, nos faltó algo muy importante, agregar nuestras características para el diseño responsivo. A continuación utilizaremos los breakpoints que mencionamos anteriormente.
 
