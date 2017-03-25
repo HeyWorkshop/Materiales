@@ -24,6 +24,6 @@ Crearemos una etiqueta **link** en nuestro archivo **index.html** de esta manera
 
 ## Listo! Nuestro proyecto ya cuenta con el paquete de iconos.
 
-Antes de aprender a usarlos, primero conozcamos la [estructura de nuestro proyecto.](page6.md)
+Antes de aprender a usarlos, primero conozcamos la [estructura de nuestro proyecto.](page5.md)
 
 #### [Anterior](page3.md) - - [Siguiente](page5.md)
