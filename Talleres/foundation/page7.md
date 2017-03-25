@@ -72,6 +72,6 @@ Tomemos como base este codigo:
 
 *Por defecto los elementos vienen alineados a la izquierda, sin embargo, si se desea se puede ser explicito añadiendo* `.align-left`.
 
-## Listo! Con estos fundamentos ya puedes agregar Foundation a tus páginas web. 😃
+## Con estos fundamentos ya puedes agregar Foundation a tus páginas web. Espero te sea de ayuda 😃
 
 #### [Anterior](page6.md)
