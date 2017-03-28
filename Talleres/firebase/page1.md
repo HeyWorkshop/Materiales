@@ -1,5 +1,5 @@
 # ![Firebase logo](imgs/firebase.png) Firebase
-##Configuración
+## Configuración
 Primero tenemos que ir a [Firebase](console.firebase.google.com) y seleccionar **create new project**
 
 ![new project](imgs/20170122-190051.png)

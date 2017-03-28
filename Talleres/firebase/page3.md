@@ -1,5 +1,5 @@
 # ![Firebase logo](imgs/firebase.png) Firebase
-##Realtime Database
+## Realtime Database
 
 Primero, para modificar la base de datos debemos ir a **Database** → **Rules** y definir las siguientes reglas (solo para desarrollo)
 ```javascript
@@ -45,7 +45,7 @@ dbStudent.on('value', function(data) {
 	console.log( data.val() );
 }
 ```
-	
+
 Cuando no necesitamos escuchar cambios del servidor utilizamos la función **once**
 ```javascript
 dbStudent.once('value', function(data) {
@@ -53,9 +53,9 @@ dbStudent.once('value', function(data) {
 }
 ```
 
-Cuando requerimos trabajar con listas de datos, es decir, eventos ocurriendo en los hijos de una referencia, en vez de usar **'value'**, usaremos alguno de los siguientes ejemplos dependiendo del caso de uso 
+Cuando requerimos trabajar con listas de datos, es decir, eventos ocurriendo en los hijos de una referencia, en vez de usar **'value'**, usaremos alguno de los siguientes ejemplos dependiendo del caso de uso
 ```javascript
-dbStudent.on('child_added' function(data){ 
+dbStudent.on('child_added' function(data){
 	//some code
 });
 ```
@@ -94,15 +94,15 @@ El parámetro **data** es el dato que está siendo escuchado en la referencia, �
 ```javascript
 dbStudents.on('child_added', function(data) {
 	console.log( data.key ); // -KbfWbtOjsptr7T8EqZ
-	
+
 	console.log( data.val() );	/* {
 								 * 	name: 'Agustín',
 								 * 	lastname: 'Melgar',
 								 * 	age: 18
 								 * }
-								 * 
+								 *
 								 */
-								 
+
 	console.log( data.val().name ); // Agustín
 }
 ```

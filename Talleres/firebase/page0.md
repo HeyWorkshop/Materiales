@@ -1,6 +1,6 @@
 # ![Firebase logo](imgs/firebase.png) Firebase
-##Conocimientos previos
-###¿Qué es Firebase?
+## Conocimientos previos
+### ¿Qué es Firebase?
 Firebase es una API multiplataforma que provee una serie de servicios como:
 
 - Autenticación
@@ -17,12 +17,12 @@ con una sencilla implementación en
 - C++ (Arduino)
 - Java (Aplicaciones de escritorio)
 
-###¿En qué casos no sirve Firebase?
+### ¿En qué casos no sirve Firebase?
 - Modelo de base de datos muy complicado
 - Aplicaciones para uso masivo
 - Gran tráfico de datos
 
-###Objetos planos en javascript
+### Objetos planos en javascript
 - **Key**
 Si comparamos un objeto plano de javascript con un objeto con un constructor, la llave sería el nombre de la propiedad del objeto
 - **Value**
@@ -35,11 +35,11 @@ Los objetos planos forman un árbol donde los hijos son los subárboles, los val
 Firebase usa bases de datos NoSQL de tipo clave/valor para denotar el árbol de datos.
 En específico se usa la notación JSON para el modelo de la base de datos.
 
-###Funciones callback
+### Funciones callback
 Un callback es la llamada de una función que se envía como parámetro.
 Las funciones observer en Firebase reciben al menos una función callback.
 
-###Promises
+### Promises
 Un promise es un objeto que se usa para el cómputo asincrónico, es decir, un objeto promise representa un valor que puede estar disponible ahora, en el futuro, o nunca.
 La mayoría de las funciones en Firebase devuelven un objeto promise.
 

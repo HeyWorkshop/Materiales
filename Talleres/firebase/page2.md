@@ -1,5 +1,5 @@
 # ![Firebase logo](imgs/firebase.png) Firebase
-##Authentication
+## Authentication
 Para configurar los proveedores de inicio de sesión debemos ir a **Authentication** → **Sign-in method** y elegimos el proveedor que deseemos
 ![Auth](imgs/20170130-111437.png)
 
@@ -26,7 +26,7 @@ Con un **observer**
 ```javascript
 firebase.auth().onAuthStateChanged(function(user) {
   if (user) {
-    // El usuario inició sesión 
+    // El usuario inició sesión
   } else {
     // No hay usuario en la sesión actual
   }
