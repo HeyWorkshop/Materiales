@@ -23,7 +23,7 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 * [Ramas](/Talleres/Git/Page5.md)
 * [Fusiones](/Talleres/Git/Page6.md)  
 
-###Taller de Git (segunda parte)  
+### Taller de Git (segunda parte)  
 * [Introducción a repositorios remotos](/Talleres/Git/Page7.md)
 * [¿Qué es GitHub y cómo funciona?](/Talleres/Git/Page8.md)
 * [Trabajar con repositorios remotos](/Talleres/Git/Page9.md)
