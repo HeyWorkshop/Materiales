@@ -25,7 +25,6 @@ Es un intérprete de comandos para sistemas operativos de tipo Unix, a través d
 **chmod +r** asigno permiso de lectura a archivos y directorios.  
 **chmod -r** quito permiso de lectura a archivos y directorios.  
 
-<<<<<<< HEAD
 [Ejercios](/Talleres/Mi_amiga_terminal/Ejercicios.md)
 
 ### Usuarios  
@@ -34,10 +33,6 @@ Es un intérprete de comandos para sistemas operativos de tipo Unix, a través d
 --> id: muestra datos de identificación del usuario.  
 --> who: muestra los usuarios del sistema.  
 --> last: información de los últimos usuarios que han usado el sistema.  
-=======
-**chmod +w** asigno permiso de escritura a archivos y directorios.  
-**chmod -w** quito permiso de escritura a archivos y directorios.  
->>>>>>> 87ec94f7bb47072a323bdcaddea287e3b4a93082
 
 **chmod +x** asigno permiso de ejecución a archivos.  
 **chmod -x** quito permiso de ejecución a archivos.  
