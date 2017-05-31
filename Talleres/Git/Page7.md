@@ -30,4 +30,20 @@ Bitbucket es un servicio de alojamiento en la nube para proyectos que utilizan l
 **Más sobre Bitbucket:**  
 https://bitbucket.org/
 ***
+
+# Gitlab  
+[![gitlab-logo-square.png](https://gitlab.com/uploads/group/avatar/6543/gitlab-logo-square.png)]
+
+GitLab, un proyecto de código libre que se puede instalar en tu propio servidor y que te permite tener repositorios privados, sin costo.
+
+### Características:
+* Puedes alojar tus proyectos en la nube.
+* Puedes instalarlo en un servidor privado.
+* Te permite trabajar de manera colaborativa.
+* Puedes crear repositorios públicos y privados (Gratuitos, con ciertas limitaciones).
+* Puedes crear equipos de desarrollo.  
+
+**Más sobre Gitlab:**  
+https://gitlab.com/
+***
 ## [Anterior](Page1.md)  --  [Siguiente](Page8.md)
