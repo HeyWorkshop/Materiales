@@ -48,7 +48,9 @@ Para ello arreglamos el archivo con los cambios elegidos, guardamos, agregamos y
 
 * Para deshacer un merge
 
-`$ git reset --merge ORIG_HEAD`
+```bash
+$ git reset --merge ORIG_HEAD
+```
 
 ***
 
