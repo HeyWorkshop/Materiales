@@ -1,17 +1,17 @@
-#Fusiones (Merge)
-####¿Qué es?
+# Fusiones (Merge)
+#### ¿Qué es?
 Es la creación de un nuevo commit juntando una rama con otra.
 
 ![Merge](Images/merge.png)
 
-####¿Cómo se hace?
+#### ¿Cómo se hace?
 
 1. Te sitúas en la rama que va a absorber (**haces checkout**)
 2. Usas el comando `merge` para fusionarlos
 
 `$ git merge <Nombre de la rama por absorber>`
 
-###Tipos de fusiones (Merge)
+### Tipos de fusiones (Merge)
 
 #### **Fast-Forward**
 
@@ -26,7 +26,7 @@ Largo y manual. Antes de hacer la fusión tiene que pasar por nosotros, normalme
 
 ![Manual merge](Images/3way.png)
 
-##Conflictos
+## Conflictos
 
 Algunas veces la unión de dos ramas no resulta tan bien, sino que ocurre un conflicto, esto pasa cuando los commits de la rama a fusionar y la rama actual modifican la misma parte en un archivo en particular y git no puede decidir cuál versión elegir, y te avisa que tú debes resolverlo.
 
