@@ -42,7 +42,7 @@ Git nos proporciona una ayuda diciéndonos que archivo tiene el conflicto, el cu
 
 ![conflicto](Images/conflict.png)
 
-donde tenemos que elegir entre lo que está entre <<<<<<< HEAD y ======= que es contenido que tenemos en la rama donde estamos haciendo el merge (master) o entre ======= y >>>>>>> contenido donde están los cambios hechos en la rama que queremos unir (contenido).
+donde tenemos que elegir entre lo que está entre `<<<<<<< HEAD` y `=======` que es contenido que tenemos en la rama donde estamos haciendo el merge (master) o entre `=======` y `>>>>>>>` contenido donde están los cambios hechos en la rama que queremos unir (contenido).
 
 Para ello arreglamos el archivo con los cambios elegidos, guardamos, agregamos y hacemos commit de los cambios.
 
