@@ -31,4 +31,4 @@ Los **Issues** son maneras de hacer seguimiento a errores, asignar tareas a alg√
 * Asigna al menos una etiqueta.
 
 * Una vez que hayas teminado, haz click en **Submit new issue**.
-## [Anterior](Page10.md)
+## [Anterior](Page10.md) -- [Siguiente](PAGE12.md) 

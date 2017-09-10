@@ -28,7 +28,8 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 * [¿Qué es GitHub y cómo funciona?](/Talleres/Git/Page8.md)
 * [Trabajar con repositorios remotos](/Talleres/Git/Page9.md)
 * [Forks y pull request](/Talleres/Git/Page10.md)
-* [Issues](/Talleres/Git/Page11.md)  
+* [Issues](/Talleres/Git/Page11.md) 
+* [Ejercicios](/Talleres/Git/PAGE12.md)
 
 ***
 
