@@ -3,7 +3,7 @@ Para poder colaborar en el desarrollo de un proyecto implementando Git, es neces
 
 Los repositorios remotos son versiones del proyecto alojados en la nube, que a diferencia de los repositorios locales, estos permiten que diversas personas colaboren y trabajen en el mismo proyecto facilitando y agilizando el desarrollo de este. De esta manera se pueden asignar ciertas funcionalidades a algún segmento del equipo para que cada parte contribuya en la integración del proyecto.  
 ***
-#GitHub  
+# GitHub  
 [![github-mark.png](https://s5.postimg.org/suu4vwwtj/github_mark.png)](https://postimg.org/image/yvrtszjfn/)  
 GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.  
 ### Características:  
@@ -18,7 +18,7 @@ GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utiliz
 https://github.com/about  
 ***
 
-#Bitbucket  
+# Bitbucket  
 [![bitbucket_navy_400x400.png](https://s5.postimg.org/adzq53gvb/bitbucket_navy_400x400.png)](https://postimg.org/image/grot8clr7/)  
 Bitbucket es un servicio de alojamiento en la nube para proyectos que utilizan los sistemas de control de versiones Mercurial y Git.  
 ### Características:  
