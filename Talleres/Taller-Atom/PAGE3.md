@@ -22,7 +22,7 @@ Si el comando no muestra
 ```
 /usr/bin/gcc
 /usr/bin/g++
-```
+ ```
 
 Necesitaras intalarlo
 
@@ -75,5 +75,5 @@ Podemos ejecutar nuestro codigo instalando la paqueteria `Script`
 
 Lo que queramos ejecutar lo seleccionamos y presionamos <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>b</kbd>
 
-##[Anterior](PAGE2.md) - - [Siguiente](PAGE4.md)
-##[Pagina principal](README.md)
+## [Anterior](PAGE2.md) - - [Siguiente](PAGE4.md)
+## [Pagina principal](README.md)
