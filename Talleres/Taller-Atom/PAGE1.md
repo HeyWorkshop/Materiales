@@ -7,7 +7,7 @@ Descargamos Atom para nuestro Sistema Operativo
 ## Windows
 Para la instalación de Atom en windows necesitamos el .exe:
 
-* Descargamos [<img src="Images/windows.PNG">](https://atom.io/download/windows_x64)
+ [<img src="Images/windows.PNG">](https://atom.io/download/windows_x64)
 
 
 y simplemente lo instalamos.
@@ -33,7 +33,7 @@ y simplemente lo instalamos.
 
 
 ## Mac
-* Descargamos el ![Atom para Mac](https://github.com/atom/atom/releases/download/v1.14.3/atom-mac.zip)
+[<img src="Images/Mac.jpeg">](https://github.com/atom/atom/releases/download/v1.14.3/atom-mac.zip)
 
 La primera vez que abras Atom, tratara de instalarse los comandos ``` atom ``` y ``` apm ``` para usarlos en la terminal
 
