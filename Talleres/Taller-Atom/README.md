@@ -3,8 +3,8 @@
 ![Logo Atom](Images/atom-logo.jpg)
 
 ## Descripción
-Este esta hecho para dar a conocer el editor de texto hecho por GitHub al igual que para enseñar
-las utilidades que tiene este para las diferentes tareas a la hora de programar.
+En este taller conoceras el editor de texto hecho por GitHub y sus diferentes
+utilidades que tiene este para las diferentes tareas a la hora de programar.
 
 ## Objetivos
 * Configurar Atom (Esto incluye como linkear a los repositorios remotos).
