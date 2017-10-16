@@ -3,16 +3,18 @@
 Descargamos Atom para nuestro Sistema Operativo
 
 
+
 ## Windows
 Para la instalación de Atom en windows necesitamos el .exe:
 
-* Descargamos el ![Atom Para Windows 64 bits](https://atom.io/download/windows_x64)
+ [<img src="Images/windows.PNG">](https://atom.io/download/windows_x64)
+
 
 y simplemente lo instalamos.
 
 ### En caso de querer tenerlo portable:
 
-* Descargar ![Atom portable](https://github.com/atom/atom/releases/download/v1.14.3/atom-windows.zip)
+  [<img src="https://discourse-cdn-sjc1.com/business/uploads/github_atom/490/d8548f4ce56f1599.png">](https://github.com/atom/atom/releases/download/v1.14.3/atom-windows.zip "Atom portable")
 
 * Extraer el zip en la memoria Externa
 
@@ -27,11 +29,11 @@ y simplemente lo instalamos.
   ```
   C:\Users\%Usuario%
    ```
-![AtomGif](Images/windows.gif)
+ ![AtomGif](Images/windows.gif)
 
 
 ## Mac
-* Descargamos el ![Atom para Mac](https://github.com/atom/atom/releases/download/v1.14.3/atom-mac.zip)
+[<img src="Images/Mac.jpeg">](https://github.com/atom/atom/releases/download/v1.14.3/atom-mac.zip)
 
 La primera vez que abras Atom, tratara de instalarse los comandos ``` atom ``` y ``` apm ``` para usarlos en la terminal
 
@@ -96,5 +98,5 @@ Para instalar la ultima version de Atom para Fedora o otro sistema relacionado q
 $ sudo dnf install -y atom.x86_64.rpm
 ```
 
-##[Siguiente](PAGE2.md)
-##[Pagina principal](README.md)
+## [Siguiente](PAGE2.md)
+## [Pagina principal](README.md)

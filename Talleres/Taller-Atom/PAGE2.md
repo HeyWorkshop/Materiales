@@ -1,4 +1,4 @@
-# Instalación de Add-Ons para Atom
+ # Instalación de Add-Ons para Atom
 
 Existen dos maneras de instalar Add-Ons en Atom.
 
@@ -25,5 +25,5 @@ Existen dos maneras de instalar Add-Ons en Atom.
   ```
 ![installopen](Images/apminstall.PNG)
 
-##[Anterior](PAGE1.md) - - [Siguiente](PAGE3.md)
-##[Pagina principal](README.md)
+## [Anterior](PAGE1.md) - - [Siguiente](PAGE3.md)
+## [Pagina principal](README.md)
