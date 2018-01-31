@@ -29,3 +29,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Facebook Bots](/Talleres/facebook-bots/README.md)
 * [Gulp](/Talleres/gulp/Page1.md)
 * [PostCss](/Talleres/PostCss/Main.md)
+* [Javascript](/Talleres/Javascript/Page1.md)
