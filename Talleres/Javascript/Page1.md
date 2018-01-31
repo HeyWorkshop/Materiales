@@ -10,7 +10,8 @@ El taller esta diseñado como una introducción a Javascript y en esté aprender
 
 * [Comenzando](/Talleres/Javascript/Page2.md)
 
-* [Usos](/Talleres/Mi_amiga_terminal/Page3.md)
+* [Usos](/Talleres/Javascript/Page3.md)
 
-* [Ejercicios](/Talleres/Mi_amiga_terminal/Page4.md)
+* [Ejercicios](/Talleres/Javascript/Page4.md)
 
+## [Siguiente](Page2.md)
