@@ -5,10 +5,5 @@
 * Transmitir informacion sobre las actividades del usuario y su navegación.
 
 
-##
 
-* [Inicio](/Talleres/Javascript/Page1.md)
-
-* [Usos](/Talleres/Mi_amiga_terminal/Page2.md)
-
-* [Ejercicios](/Talleres/Mi_amiga_terminal/Page4.md)
+## [Siguiente](Page4.md)
