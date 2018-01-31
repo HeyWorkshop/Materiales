@@ -32,7 +32,7 @@ mostrar información estática para que puedas ver es probable que Javascript es
 * Si se suma un booleano con una cadena el booleano se convierte en cadena
 * Si se suma un booleano con un numero el booleano se convierte en numero
 
-
+##
 * [Inicio](/Talleres/Javascript/Page1.md)
 
 * [Usos](/Talleres/Mi_amiga_terminal/Page3.md)
