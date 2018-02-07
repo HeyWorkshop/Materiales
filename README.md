@@ -30,4 +30,4 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Gulp](/Talleres/gulp/Page1.md)
 * [PostCss](/Talleres/PostCss/Main.md)
 * [Javascript](/Talleres/Javascript/Page1.md)
-* [JavaEE](/Talleres/JavaEE/Page1.md)
+* [JavaEE](/Talleres/JAVAEE/page1.md)
