@@ -1,0 +1,42 @@
+<link rel="import" href="./bower_components/polymer/polymer.html">
+
+<!-- 
+    dom-module  se encarga de crear los components
+    se le asigna un id que va a llamar a nuestro tag 
+    que debe se ser el nombre de nuestro archivo html 
+-->
+
+<dom-module id="hola-workshop">
+    <template>
+        <p>
+             <strong>[[msg]]</strong>
+        </p>
+    </template>    
+
+    <script>
+        class HolaWorkshop extends Polymer.Element 
+        {
+            /**
+             *  IS: devuelve un objeto y el cómo es este objeto, por eso es IMPORTANTE que se
+             * llame exactamente igual a nuestro archivo.
+             * PROPERTIES: Devuelve las propiedades del objeto, en este caso, le especificaremos
+             * el tipo y el valor
+            */
+                static get is() 
+                {
+                    return 'hola-workshop'; 
+                }
+                static get properties() 
+                {
+                    return {
+                        msg: 
+                        {
+                            type: String,
+                            value: 'Hola desde Polymer'
+                        }
+                    };
+                }
+        }
+    window.customElements.define(HolaWorkshop.is, HolaWorkshop);
+    </script>
+</dom-module>

@@ -1,0 +1,48 @@
+{
+  "name": "custom-elements",
+  "description": "Custom Elements polyfill",
+  "main": "custom-elements.min.js",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcomponents/custom-elements.git"
+  },
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "custom-elements",
+    "customelements",
+    "web-components",
+    "webcomponents",
+    "polyfill",
+    "shim"
+  ],
+  "homepage": "https://webcomponents.org/polyfills",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "web-component-tester": "^6.0.0",
+    "webcomponents-platform": "webcomponents/webcomponents-platform#^1.0.0",
+    "es6-promise": "stefanpenner/es6-promise#^4.0.0",
+    "html-imports": "webcomponents/html-imports#^1.0.0",
+    "template": "webcomponents/template#^1.2.0",
+    "shadydom": "webcomponents/shadydom#^1.0.6"
+  },
+  "version": "1.0.8",
+  "_release": "1.0.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.8",
+    "commit": "134c58e6b21a6788f18b715ac5d70ede0cad779f"
+  },
+  "_source": "https://github.com/webcomponents/custom-elements.git",
+  "_target": "^1.0.8",
+  "_originalSource": "webcomponents/custom-elements",
+  "_direct": true
+}

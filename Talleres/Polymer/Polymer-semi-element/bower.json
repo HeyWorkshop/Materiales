@@ -1,0 +1,20 @@
+{
+  "name": "hola-workshop",
+  "homepage": "https://github.com/weylermaldonado/wst-taller-polymer",
+  "authors": [
+    "WeylerMaldonado <weyler.maldonado@gmail.com>"
+  ],
+  "description": "Dice Hola-mundo",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "2.0.0"
+  }
+}
