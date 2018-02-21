@@ -1,0 +1,50 @@
+<!-- 
+  Siempre importar polymer-element.html
+  HTML imports
+-->
+<link rel="import" href="../polymer/polymer-element.html">
+
+<!-- 
+  Definimos nuestro componente usa dom-module
+  siempre le vamos a poner como id el nombre del elemento
+-->
+<dom-module id="hola-workshop">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <h2>Hello [[prop1]]!</h2>
+  </template>
+<!-- 
+  El script crea y define el comportamiento del elemento
+  nótese la notación del uso de clases introducidad en el ECMAScript 2015
+-->
+  <script>
+    /**
+     * `hola-workshop`
+     * Muestra un hola
+     *
+     * @customElement
+     * @polymer
+     * @demo demo/index.html
+     */
+     /**
+     * El is indica el nombre del elemento
+     */
+    class HolaWorkshop extends Polymer.Element {
+      static get is() { return 'hola-workshop'; }
+      static get properties() {
+        return {
+          prop1: {
+            type: String,
+            value: 'workshop'
+          }
+        };
+      }
+    }
+
+    window.customElements.define(HolaWorkshop.is, HolaWorkshop);
+  </script>
+</dom-module>

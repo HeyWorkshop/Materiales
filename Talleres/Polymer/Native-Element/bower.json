@@ -1,0 +1,24 @@
+{
+  "name": "Ejercicios",
+  "authors": [
+    "WeylerMaldonado <weyler.maldonado@gmail.com>"
+  ],
+  "description": "Mi primer elemento",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.1.0",
+    "custom-elements": "webcomponents/custom-elements#^1.0.8",
+    "shadydom": "webcomponents/shadydom#^1.0.12",
+    "web-component-tester": "Polymer/web-component-tester#^6.5.0"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "@webcomponents/shadydom",
+  "version": "1.0.12",
+  "description": "Shadow DOM polyfill",
+  "main": "shadydom.min.js",
+  "keywords": [
+    "shady-dom",
+    "shadydom",
+    "shadow-dom",
+    "shadowdom",
+    "web-components",
+    "webcomponents",
+    "polyfill",
+    "shim"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcomponents/shadydom.git"
+  },
+  "author": "The Polymer Authors",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/webcomponents/shadydom/issues"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "wct"
+  },
+  "homepage": "https://webcomponents.org/polyfills",
+  "devDependencies": {
+    "@webcomponents/custom-elements": "^1.0.6",
+    "@webcomponents/shadycss": "^1.1.0",
+    "@webcomponents/template": "^1.2.0",
+    "@webcomponents/webcomponents-platform": "^1.0.0",
+    "eslint": "^3.4.0",
+    "eslint-plugin-html": "^2.0.0",
+    "google-closure-compiler": "^20170806.0.0",
+    "gulp": "^3.8.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-rollup": "^2.15.0",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "web-component-tester": "^6.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
