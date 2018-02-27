@@ -85,4 +85,4 @@ public class Alumno {
 ```
 
 # Soluciones
-[Solucion](/Talleres/Materiales/Documentacion/Soluciones.md)
+[Solucion](/Materiales/Talleres/Documentacion/Soluciones.md)
