@@ -263,5 +263,6 @@ En dado caso que no queramos usar terminal siempre podemos usar la GUI de Doxyge
 
 # Ejercicios
 
-[Ejercicio Doxygen](Ejercicios.md)
+[Ejercicio Doxygen](/Talleres/Materiales/Documentacion/Ejercicios.md)
+
 
