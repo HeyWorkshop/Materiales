@@ -163,4 +163,4 @@ $ javadoc -d destino archivo.java
 ```
 #Ejercicio
 
-[Ejercicio Javadoc](Ejercicios.md)
+[Ejercicio Javadoc](/Talleres/Materiales/Documentacion/Ejercicios.md)
