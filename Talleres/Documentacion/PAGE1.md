@@ -67,6 +67,7 @@ C:\Program Files\doxygen\bin
 
 
 # Temas y Ejercicios
-* [Javadoc](Talleres/Documentacion/Javadoc.md)
-* [Doxygen](Talleres/Documentacion/Doxygen.md)
-* [Ejercicios](Talleres/Documentacion/Ejercicios.md)
+* [Javadoc](/Talleres/Documentacion/Javadoc.md)
+* [Doxygen](/Talleres/Documentacion/Doxygen.md)
+* [Ejercicios](/Talleres/Documentacion/Ejercicios.md)
+* [Soluciones](/Talleres/Documentacion/Soluciones.md)
