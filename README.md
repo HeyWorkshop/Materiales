@@ -31,4 +31,5 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [PostCss](/Talleres/PostCss/Main.md)
 * [Javascript](/Talleres/Javascript/Page1.md)
 * [JavaEE](/Talleres/JAVAEE/page1.md)
+* [Polymer](/Talleres/Polymer/README.md)
 * [Documentación](/Talleres/Documentacion/PAGE1.md)
