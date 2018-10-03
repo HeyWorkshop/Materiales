@@ -1,12 +1,12 @@
-#Ramas (Branches)
+# Ramas (Branches)
 
 ![Rama](Images/Rama.png)
 
-###¿Qué es una rama?
+### ¿Qué es una rama?
 
 Es una linea de tiempo en nuestro proyecto, que nos sirven para arreglar errores, experimentar, hacer grandes cambios, etc.
 
-###Ejemplo práctico
+### Ejemplo práctico
 
 Vamos a presentar un ejemplo simple de ramificar y de fusionar, con un flujo de trabajo que se podría presentar en la realidad. Imagina que sigues los siquientes pasos:
 
@@ -25,19 +25,19 @@ En este momento, recibes una llamada avisándote de un problema crítico que has
 
 ***
 
-####Head
+#### Head
 
 Head es en el commit donde nos encontramos. Es decir, que si nosotros hacemos un checkout, éste será nuestro head.
 
 ![Head](Images/head.png)
 
-####Rama Master
+#### Rama Master
 
 La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
 
 **Nota:** Esta rama suele usarse para tener las versiones "estables" de los proyectos.
 
-###Manejando las ramas
+### Manejando las ramas
 
 * Crear una rama es tán simple como escribir
 

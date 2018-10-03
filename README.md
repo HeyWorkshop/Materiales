@@ -1,7 +1,7 @@
-# ¡Bienvenidos a Workshop Technology!
+# ¡Bienvenidos a Workshop!
 ![Logo WT](./Imagenes/logo.png)
 
-### ¿Qué es Workshop Technology?
+### ¿Qué es Workshop?
 Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software, para posteriormente participar por un internship con nuestros partners asociados, durante el verano.   
 
 
@@ -19,7 +19,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 
 # Talleres hasta el momento
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
-* [Mi amigo Git](/Talleres/Git/Page1.md)
+* [Introducción Git](/Talleres/Git/Page1.md)
 * [Lo básico de HTML & CSS](/Talleres/html-css/Inicio.md)
 * [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
 * [Lo básico de Firebase](/Talleres/firebase/index.md)
@@ -30,7 +30,6 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Gulp](/Talleres/gulp/Page1.md)
 * [PostCss](/Talleres/PostCss/Main.md)
 * [Javascript](/Talleres/Javascript/Page1.md)
-* [JavaEE](/Talleres/JAVAEE/page1.md)
 * [Polymer](/Talleres/Polymer/README.md)
 * [Tecnologías de Documentación](/Talleres/Documentacion/PAGE1.md)
 * [Servicios Web con NodeJS](/Talleres/web-services/README.md)

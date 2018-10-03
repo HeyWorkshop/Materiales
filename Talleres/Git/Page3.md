@@ -1,8 +1,8 @@
-#Instalación y configuración
+# Instalación y configuración
 
-##Instalación
+## Instalación
 
-###Linux
+### Linux
 * **Debian/Ubuntu**
 
 `$ apt-get install git`
@@ -17,7 +17,7 @@
 
 `$ pacman -S git`
 
-###MacOs / OsX
+### MacOs / OsX
 
 * **Instalación normal**
 
@@ -27,14 +27,18 @@
 
 `$ brew install git`
 
-###Windows
+### Windows
 
 * **Instalación normal**
 
 [Descarga aquí](https://git-scm.com/download/win)
 
-##Configuración
+## Configuración
 La configuración se lleva a cabo vía terminal con los siguientes comandos:
+
+* **Ver nuestras configuraciones globales :wrench:**
+
+`$ git config --global --list`
 
 * **Define tu nombre :boy:**
 
@@ -52,9 +56,6 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 `$ git config --global core.editor <Tu editor de texto (ejemplo: nano)>`
 
-* **Ver nuestras configuraciones globales :wrench:**
-
-`$ git config --global --list`
 
 ***
 

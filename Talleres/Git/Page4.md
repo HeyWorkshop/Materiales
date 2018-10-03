@@ -1,5 +1,5 @@
-#Lo escencial
-##Comandos básicos
+# Lo escencial
+## Comandos básicos
 
 * `$ git init`
 Este comando marca el inicio de nuestro proyecto, aquí le decimos a Git que empiece a monitorear todos nuestros cambios.
@@ -33,7 +33,7 @@ Con este comando viajamos a través de nuestros commits o nuestras ramas.
 
 * `$ man git-<comando>`
 
-##Estados de los archivos
+## Estados de los archivos
 
 Cada archivo de tu directorio de trabajo puede estar en uno de estos dos estados: 
 * Bajo seguimiento (**tracked**)
