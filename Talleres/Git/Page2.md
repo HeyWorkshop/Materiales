@@ -1,5 +1,5 @@
-#Introducción a Git
-##¿Qué es?
+# Introducción a Git
+## ¿Qué es?
 
 Es un sistema de control de versiones. Éste nos registra los cambios realizados en un archivo o conjunto de archivos.
 
@@ -10,7 +10,7 @@ Nos permite:
 * Ver quien ha modificado o ha introducidos errores en el proyecto.
 * Etc.
 
-##Estados de trabajo
+## Estados de trabajo
 
 * **Working directory:** Aquí es donde editamos y trabajamos con nuestros proyectos.
 * **Staging area:** Aquí es donde escogemos que archivos están listos para pasar al tercer estado, al igual que decidimos qué archivos no están listos por el momento.
