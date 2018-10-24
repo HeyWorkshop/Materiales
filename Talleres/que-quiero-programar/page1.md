@@ -1,4 +1,4 @@
-#**¿Qué quiero programar?**
+# ¿Qué quiero programar?
 
 ![Roadmap Front](/Talleres/que-quiero-programar/IMG_1463.png)
 
@@ -8,7 +8,8 @@ Este material está hecho para dar difusión a las diferentes áreas de desarrol
 
 ***
 
-#Áreas de desarrollo 
+## Áreas de desarrollo 
+
 * [Desktop](/Talleres/que-quiero-programar/page2.md)
 * [Web](/Talleres/que-quiero-programar/page3.md)
 * [Mobile](/Talleres/que-quiero-programar/page4.md)
