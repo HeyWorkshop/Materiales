@@ -6,9 +6,7 @@ En los años recientes, el auge de los dispositivos móviles fue aplastante, par
 
 ## Mobile
 ![Roadmap Mobile](/Talleres/que-quiero-programar/roadmaps/Roadmap&#32;Móvil.png)
-***
-## Back-end
-![Roadmap Front](/Talleres/que-quiero-programar/roadmaps/RoadmapBackEnd.png)
+
 
 ## [Anterior](page3.md) | [Siguiente](page5.md)
 
