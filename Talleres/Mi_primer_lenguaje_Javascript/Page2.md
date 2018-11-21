@@ -42,4 +42,4 @@ Ejemplo:
 
 **nombre_funcion(valor1, valor2);**
 
-## [Siguiente](Page3.md)
+## [Siguiente](Talleres/Mi_primer_lenguaje_Javascript/Page3.md)
