@@ -42,5 +42,7 @@ Ejemplo:
 
 **nombre_funcion(valor1, valor2);**
 
+## [Página anterior](/Talleres/Mi_primer_lenguaje_Javascript/Page1.md)
+
 ## [Siguiente página](/Talleres/Mi_primer_lenguaje_Javascript/Page3.md)
 
