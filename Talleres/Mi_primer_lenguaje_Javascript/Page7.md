@@ -14,12 +14,16 @@ Hay que aclarar que si bien la cantidad de valores debe ser finita, esta puede n
 Ahora, en JavaScript hay muchas funciones predefinidas para manejar los elementos de nuestro arreglo, por lo que abarcarlos aquí sería dificil, así que te recomendamos esta [página](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) para ver las diferentes funciones disponibles en este lenguaje.
 
 
-##Objetos (JSON)
-En JavScript tiene su propia notación para crear objetos, y es la siguiente:
+## Objetos (JSON)
+JSON es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente. 
+
+**Ejemplo en JavaScript:**
 ```js
 var obj = {a: valor1, b: valor2, c: valor3}
 ```
 Como podemos observar, ya no se usan corchetes, sino llaves, esto se debe a que hace referencia a que esa variable es un objeto. También, cada "índice" ahora hace referencia una "propiedad", la cual tiene un valor.
-## [Anterior](Page6.md) | [Siguiente](Page7.md)
+
+Es importante mencionar que hoy en día se usa mucho JSON para el manejo datos, como en API, ya sean externas o de tu misma aplicación.
+## [Anterior](Page6.md)
 
 *[Descargar actividad](didacticas-js.zip)*
