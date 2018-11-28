@@ -6,6 +6,5 @@ Ahora vamos a editar el código de javascript que creamos antes de tal forma que
 
 Ahora guardamos el archivo, abrimos el archivo HTML en nuestro navegador y veamos que sucede.
 
-## [Página anterior](/Talleres/Mi_primer_lenguaje_Javascript/Page4.md)
+## [Anterior](Page4.md) | [Siguiente](Page6.md)
 
-## [Siguiente página](/Talleres/Mi_primer_lenguaje_Javascript/Page6.md)
