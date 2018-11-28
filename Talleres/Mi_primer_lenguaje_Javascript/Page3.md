@@ -10,6 +10,5 @@ Ahora creamos un nuevo archivo javascript llamado miDibujo.js junto al html crea
 
 Ahora guardamos los dos archivos, abrimos el archivo HTML en nuestro navegador y veamos que sucede.
 
-## [Página anterior](/Talleres/Mi_primer_lenguaje_Javascript/Page2.md)
+## [Anterior](Page2.md) | [Siguiente](Page5.md)
 
-## [Siguiente página](/Talleres/Mi_primer_lenguaje_Javascript/Page4.md)
