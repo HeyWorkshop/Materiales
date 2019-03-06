@@ -7,13 +7,13 @@ Connection connection = null;
 Class.forName("org.sqlite.JDBC");
 connection = DriverManager.getConnection("jdbc:sqlite:user.db");
 ```	
-Si _user.db_ no existe, se debe crear antes de poder realizar operaciones C.R.U.D.
+Si _user.db_ no existe, se debe crear antes de poder realizar operaciones C.R.U.D.(Create, Read, Update, Delete).
 
 
 ## Crear Tabla
 Para poder usar el _AUTOINCREMENT_ (que autoincrementa el id de cada usuario creado) tenemos que usar el tipo de dato _INTEGER_ en ves del _INT_.
 
-Si no existe una tabla antes de hacer cualquier operación C.R.U.D. (Create, Read, Update, Delete), tendremos problemas.
+Si no existe una tabla antes de hacer cualquier operación C.R.U.D., tendremos problemas.
 
 ```java
 Statement stmt = connection.createStatement();
@@ -195,4 +195,4 @@ catch (SQLException e) {
 }
 ```
 
-## [Demo](Demo.md)
+## [Demo](/Talleres/JavaSQLite/Demo.md)

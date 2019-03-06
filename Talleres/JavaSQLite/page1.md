@@ -35,13 +35,14 @@ Los pasos fundamentales involucrados en el proceso de conexión a una base de da
 7. Cierre los objetos de conjunto de resultados y declaración.
 
 8. Cierre la conexión.
-9.
 
-El Controlador JDBC para conectarse con una Base de Datos SQLite se encuentra aqui: [SQLite JDBC] (https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
+
+El Controlador JDBC para conectarse con una Base de Datos SQLite se encuentra aqui: [SQLite JDBC](https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
 
 
 ## JAR
 ![JAR](https://cdn3.iconfinder.com/data/icons/files-36/512/File_types_Icon2_Jar-512.png)
+
 Un **JAR (Java ARchive)** es un formato de archivo de paquetes que generalmente se usa para agregar muchos archivos de clase Java y los metadatos y recursos asociados (texto, imágenes, etc.) en un solo archivo para su distribución.
 
 Los archivos JAR se empaquetan con el formato de archivo ZIP, por lo que puede usarlos para tareas como la _compresión_ de datos sin pérdida, el _archivado_, la _descompresión_ y el _desempaquetado_ de archivos. 
@@ -54,17 +55,17 @@ java -jar app.jar
 ```
 
 
-##¿Qué vamos a utilizar?
+## ¿Qué vamos a utilizar?
 
-* [Netbeans] (https://netbeans.org/downloads/8.0.2/)
-* [Tecnologia Java] (https://www.java.com/en/download/)
-* [Java SDK] (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [SQLite JDBC] (https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
-* [J-Calender] (http://www.toedter.com/download/jcalendar-1.4.zip)
-* [SQLite Browser] (https://sqliteonline.com)
+* [Netbeans](https://netbeans.org/downloads/8.0.2/)
+* [Tecnologia Java](https://www.java.com/en/download/)
+* [Java SDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [SQLite JDBC](https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
+* [J-Calender](http://www.toedter.com/download/jcalendar-1.4.zip)
+* [SQLite Browser](https://sqliteonline.com)
 
 Usamos el IDE de **Netbeans** para facilitar el uso de SQLite con Java en una forma mas visual incluyendo el Framework: <strong>Java Swing</strong>
 
 
 
-## [Página 2](Page2.md)
+## [Página 2](/Talleres/JavaSQLite/page2.md)

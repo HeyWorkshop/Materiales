@@ -1,5 +1,6 @@
 # Java Swing
 ![Swing](https://upload.wikimedia.org/wikipedia/commons/c/cc/Gui-widgets.png)
+
 **Swing** es un conjunto de herramientas de widget GUI para Java. Forma parte de Java Foundation Classes (JFC) de Oracle: una API para proporcionar una interfaz **Gráfica de Usuario** (GUI) para programas Java.
 
 
@@ -68,4 +69,4 @@ Se puede descargar el **.jar** aqui:
 [jcalendar-1.4.jar.zip](http://www.toedter.com/download/jcalendar-1.4.zip)
 
 
-## [Página 3](Page3.md)
+## [Página 3](/Talleres/JavaSQLite/page3.md)
