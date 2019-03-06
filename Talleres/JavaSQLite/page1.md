@@ -1,5 +1,6 @@
 ## ¿Qué es Java? 
 ![Java](https://belitsoft.com/images/uploads/blog/JV.jpg)
+
 **Java** es un lenguaje de programación de propósito general que es concurrente, basado en clases, orientado a objetos, y diseñado específicamente para tener la menor cantidad de dependencias de implementación posibles. 
 
 El código Java compilado puede ejecutarse en todas las plataformas que admiten Java sin la necesidad de una recompilación. 
@@ -9,6 +10,7 @@ Las aplicaciones Java generalmente se compilan a un código de bytes que puede e
 
 ## ¿Qué es SQLite?
 ![SQLite](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png) 
+
 **SQLite** es un sistema de gestión de bases de datos relacionales contenido en una biblioteca de programación en C. A diferencia de muchos otros sistemas de administración de bases de datos, SQLite NO es un motor de base de datos cliente-servidor. Más bien, está incrustado en el programa final.
 
 SQLite es una opción popular como software de base de datos integrado para **almacenamiento local** en software de aplicación, como los navegadores web. 

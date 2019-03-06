@@ -69,4 +69,4 @@ Se puede descargar el **.jar** aqui:
 [jcalendar-1.4.jar.zip](http://www.toedter.com/download/jcalendar-1.4.zip)
 
 
-## [Página 3](/Talleres/JavaSQLite/page3.md)
+## [Página 3](/Talleres/JavaSQLite/Page3.md)
