@@ -83,3 +83,8 @@ creemos que cada uno puede tener un repositorio dedicado (spoiler...?):
 Existen muchos más conceptos que definen a un desarrollador front-end, ahora mismo creemos que con el contenido mencionado representa lo fundamental para ser apto ante un rol de desarrollador front-end en el 2019. El contenido que no hemos mencionado creemos que podrá ser adaptado en otro taller, quizás más centrado al rol de desarrollo front-end, pero por ahora. Esperamos este contenido sea de tu agrado.
 
 ## Back-end
+Back-end hace referencia a todo el apartado que sucede en el transfondo del sistema, el punto de acceso entre los datos del sistema. Puede incluir tareas cómo: 
+* Manejo y administración de bases de datos
+* Creación y documentación de APIs
+* Verificación de seguridad (autenticación y autorización)
+Es importante recalcar que este concepto, junto con el concepto de front-end dan como resultado un desarrollador "Full-stack", el cuál se puede hacer cargo tanto de la administración y manejo de bases de datos, cómo la representación de información en una interfaz.
