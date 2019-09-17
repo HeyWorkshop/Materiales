@@ -20,7 +20,7 @@ desees aprender, ¡así que esperamos que los tengas en consideración en cualqu
 ***
 
 ## Contenido
-* [Introducción al desarrollo - Fundamentos del Monkey Coder](/Talleres/que-quiero-programar/monkey-coder)
+* [Introducción al desarrollo - Fundamentos del Monkey Coder](/Talleres/que-quiero-programar/monkey-coder.md)
 #### Elige un camino! (¿O no?)
 * [Desarrollo Web - Cómo evitar perderse en la metrópolis tecnológica](/Talleres/que-quiero-programar/page3.md)
 * [Mobile](/Talleres/que-quiero-programar/page4.md)
