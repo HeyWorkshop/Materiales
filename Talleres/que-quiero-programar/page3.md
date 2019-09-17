@@ -86,5 +86,10 @@ Existen muchos más conceptos que definen a un desarrollador front-end, ahora mi
 Back-end hace referencia a todo el apartado que sucede en el transfondo del sistema, el punto de acceso entre los datos del sistema. Puede incluir tareas cómo: 
 * Manejo y administración de bases de datos
 * Creación y documentación de APIs
-* Verificación de seguridad (autenticación y autorización)
+* Verificación de seguridad (autenticación y autorización) 
+<br>
 Es importante recalcar que este concepto, junto con el concepto de front-end dan como resultado un desarrollador "Full-stack", el cuál se puede hacer cargo tanto de la administración y manejo de bases de datos, cómo la representación de información en una interfaz.
+Para el desarrollo back-end no hay un lenguaje específicado, o popular cómo en el caso de Javascript. Existen varias opciones, aunque haremos énfasis en una cantidad limitada de las mismas.
+
+#### Lenguajes de programación
+Para hacer back-end existen muchas opciones en cuestión a lenguajes de programación, platicaremos un poco acerca de cada uno. Esto para proporcionarles una idea que distingue a cada uno sin adentrarnos en conceptos muy técnicos:
