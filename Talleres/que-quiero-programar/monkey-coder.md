@@ -30,4 +30,17 @@ herramienta desarrollada por un startup.
 * [Aprende lo básico de Git en 10 minutos](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 * [Video-curso de Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-#### Algoritmos y estructuras de datos // pending
+#### Algoritmos y estructuras de datos
+Esta área es muy polémica, mucha gente detesta que en las entrevistas de compañías cómo Google, Facebook o Microsoft (al igual que la 
+entrada a las compañías de Internship), se hagan preguntas acerca de algoritmos y estructuras de datos. Cuándo se labora en la 
+industria del desarrollo de software nos encontraremos con ocasiones en los cuales el saber que algoritmo utilizar, o cuál es la mejor 
+estructura de datos a implementar resulta crítico en el desempeño de nuestro sistema. Por lo tanto consideramos importante conocer los 
+fundamentos de las estructuras de datos, y tener bien definido un pensamiento algorítmico.
+
+#### He aquí, recursos:
+* [Curso gratuito](https://www.udemy.com/course/introduction-to-data-structures/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-3.ClKy.6hp75NVGpOkmjBQ)
+* [Curso de Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+* [Introducción a la programación de Hardvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+<br>
+De nuevo, queremos recalcar que estos recursos son recomendaciones. ¡Eres libre de buscar el contenido que más se te acomode para 
+aprender estos conceptos!
