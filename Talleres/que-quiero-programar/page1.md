@@ -21,7 +21,13 @@ desees aprender, ¡así que esperamos que los tengas en consideración en cualqu
 
 ## Contenido
 * [Introducción al desarrollo - Fundamentos del Monkey Coder](/Talleres/que-quiero-programar/monkey-coder)
-* [Desktop](/Talleres/que-quiero-programar/page2.md)
-* [Web](/Talleres/que-quiero-programar/page3.md)
+#### Elige un camino! (¿O no?)
+* [Desarrollo Web - Cómo no perderse en la metrópolis tecnológica](/Talleres/que-quiero-programar/page3.md)
 * [Mobile](/Talleres/que-quiero-programar/page4.md)
 * [Videojuegos](/Talleres/que-quiero-programar/page5.md)
+#### Roles en Trending
+* [Data Science]()
+* [AI/Machine Learning]()
+* [Internet of things]()
+* [Cyber Security]()
+* [DevOps]()
