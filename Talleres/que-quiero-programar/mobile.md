@@ -1,4 +1,4 @@
-![Mobile](/mobileDevelopment.jpg)
+![Mobile](/Talleres/que-quiero-programar/mobileDevelopment.jpg)
 # Desarrollo Móvil - Gotham para los desarrolladores de software
 
 ¡PUM! llegaste a la parte de desarrollo móvil, en comparación al desarollo web, el desarrollo móvil es igual de interesante, digamos que es el Joker, pero tú no serás Jason Todd, sino Batman. Ahora supongamos que te has querido saltar el camino del desarrollo web y has venido aquí ¿qué es necesario para empezar a desarrollar en móvil?, bueno, a diferencia de Batman no necesitas que tus papás se mueran, aunque, en comparación al desarrollo web, si será necesario que sepas desde un inicio programar, pero no te preocupes, solo es de manera básica. Es necesario mencionar, que al igual que el desarrollo web, hay diferentes ramas en las que puedes especializarte y diferentes conceptos con respecto a las demás ramas de desarrollo de software.
@@ -11,7 +11,7 @@ Cómo se mencionó antes, no necesitas mucho para empezar aquí, mas que tu crea
 Sin embargo, hay muchas formas de empezar a hacer tu primera app, por lo que es necesario que sepas cuales son, para que así le des con todo al crimen en Gotham... digo... que hagas tu app.
 
 ## Desarrollo nativo
-![Mobile](/native.jpg)
+![Mobile](/Talleres/que-quiero-programar/native.jpg)
 Seguramente te has preguntado ¿por qué está app funciona mejor en iOS que en Android? o viceversa. Si ese ha sido tu caso, no es que estás loco, es porque para cada sistema operativo, hay que desarrollar con diferentes tecnologías y lenguajes, lo que significa que, en un sistema puede funcionar, eso sí, los factores pueden cambiar.
 > _Nada es esta vida es fácil, y las empresas tampoco nos la mejoran como desarrolladores..._
 
