@@ -22,9 +22,10 @@ desees aprender, ¡así que esperamos que los tengas en consideración en cualqu
 ## Contenido
 * [Introducción al desarrollo - Fundamentos del Monkey Coder](/Talleres/que-quiero-programar/monkey-coder.md)
 #### Elige un camino! (¿O no?)
-* [Desarrollo Web - Cómo evitar perderse en la metrópolis tecnológica](/Talleres/que-quiero-programar/page3.md)
-* [Mobile](/Talleres/que-quiero-programar/page4.md)
-* [Videojuegos](/Talleres/que-quiero-programar/page5.md)
+* [Desarrollo Web - Cómo evitar perderse en la metrópolis tecnológica](/Talleres/que-quiero-programar/web.md)
+* [Desarrollo Móvil - Gotham para los desarrolladores de software](/Talleres/que-quiero-programar/mobile.md)
+* [Videojuegos](/Talleres/que-quiero-programar/game.md)
+
 #### Roles en Trending
 * [Data Science]()
 * [AI/Machine Learning]()
