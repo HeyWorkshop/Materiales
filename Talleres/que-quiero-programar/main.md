@@ -24,7 +24,7 @@ desees aprender, ¡así que esperamos que los tengas en consideración en cualqu
 #### Elige un camino! (¿O no?)
 * [Desarrollo Web - Cómo evitar perderse en la metrópolis tecnológica](/Talleres/que-quiero-programar/web.md)
 * [Desarrollo Móvil - Gotham para los desarrolladores de software](/Talleres/que-quiero-programar/mobile.md)
-* [Videojuegos](/Talleres/que-quiero-programar/game.md)
+* [Videojuegos - El área que todos quieren pero nadie conoce](/Talleres/que-quiero-programar/game.md)
 
 #### Roles en Trending
 * [Data Science]()
