@@ -93,3 +93,38 @@ Para el desarrollo back-end no hay un lenguaje específicado, o popular cómo en
 
 #### Lenguajes de programación
 Para hacer back-end existen muchas opciones en cuestión a lenguajes de programación, platicaremos un poco acerca de cada uno. Esto para proporcionarles una idea que distingue a cada uno sin adentrarnos en conceptos muy técnicos:
+
+#### Node Js (Javascript)
+Node nos permite realizar Back-end utilizando Javascript, lo que lo convierte en una de las mejores opciones hoy en día, ya que uno 
+puede realizar todo el stack de un sistema con un sólo lenguaje de programación (cómo lo es Javascript). En proyectos escalables, 
+cuenta con la desventaja de que no es lo más óptimo en cuánto a velocidad. Para proyectos de pequeña-mediana creemos que es una de las 
+mejores opciones disponibles, dada la comunidad formada y la cantidad de información disponible al respecto.
+
+* [Video curso para aprender nodejs](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+* [Video curso para aprender express (facilita el trabajo con NodeJs)](https://www.youtube.com/watch?v=L72fhGm1tfE)
+* [Video curso en español](https://www.youtube.com/watch?v=BhvLIzVL8_o)
+
+#### Python 
+Python es otra opción, su uso no es escencialmente el desarrollo en back-end, pero actualmente cuenta con una comunidad increíblemente 
+activa. Otra de sus ventajas es que el tiempo de respuesta en el back-end (especialmente APIs), tiende a ser mucho más rápido que otros lenguajes, cómo Javascript con Node y Express.
+* [Mega-curso básico de Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+* [Crash Course de FCC](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+
+#### Ruby (Rails)
+Ruby es un lenguaje extremadamente popular para el desarrollo de back-end. Cuénta con un ambiente de desarrollo cómo y una alta 
+demanda en la industria.
+* [Mega-curso básico de Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY)
+* [Construye el back-end de un blog con Rails](https://www.youtube.com/watch?v=wbZ6yrVxScM)
+
+#### Php
+Php ha sido uno de los lenguajes comúnmente impartidos para la enseñanza de back-end en los últimos años. Facebook fue desarrollado 
+usando php, y aunque hoy en día creemos que no es la mejor opción, seguimos comprendiendo su importancia, junto con la cantidad de recursos que existen para aprender lo necesario para desarrollar con el lenguaje.
+* [Mega-curso básico de Php](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+* [Aplicación back-end con Php](https://www.youtube.com/watch?v=pn2v9lPakHQ)
+
+#### Bases de datos
+Consideramos importante el conocer el sitio en el cuál los datos han de ser almacenados, por consiguiente te compartimos los siguientes recursos para aprender a utilizar una base de datos con diversos lenguajes de programación:
+* [Curso de MySql](https://www.youtube.com/watch?v=c4P__KoPZwo)
+* [Curso MongoDB](https://www.youtube.com/watch?v=VELru-FCWDM)
+* [Curso PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+* [Serie de Firebase](https://www.youtube.com/watch?v=4d-gIPGzmK4)  
