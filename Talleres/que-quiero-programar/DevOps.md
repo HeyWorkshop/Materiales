@@ -1,3 +1,5 @@
+![DevOps Image](devops.jpg)
+
 # ¿Qué es DevOps?
 
 DevOps más que una profesión es una cultura y una serie de prácticas así como un conjunto de herramientas 
