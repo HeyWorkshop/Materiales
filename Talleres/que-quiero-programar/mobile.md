@@ -22,12 +22,14 @@ Sino has empezado nunca en Android, puede que este sea el momento, pues Google d
 La verdad es que Kotlin mejora muchas cosas en el desarrollo móvil para Android, ¿qué tal un cursito para empezar?:
 
 * [Kotlin Hands-on](https://play.kotlinlang.org/koans/overview)
+* [Curso de Kotlin](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
 ### iOS
 Ahora, como se mencionó antes, desarrollar en diferentes plataformas requiere diferentes lenguajes, en este caso, requerimos de Swift, el único problema con Swift es que si quieres probar tu aplicación, es necesario que tengas una Mac (qué buena onda es Apple ¿no?). Tal vez te sea fácil empezar aquí, eso si, sino eres fanboy de Apple ni lo intentes.
 Aquí un curso para empezar con Swift:
 
 * [Swift for beginners](https://medium.com/swift2go/introduction-to-swift-eff22d99ccc5)
+* [Curso de Swift](https://www.youtube.com/watch?v=comQ1-x2a1Q)
 
 ## Desarrollo híbrido o multiplataforma
 Bueno, tal vez estas dos grandes multinacionales nos quieren hacer sufrir aprendiendo mil y un cosas diferentes para tener que hacer al final dos proyectos diferentes, sin embargo, ya muchos pensaron lo mismo que tú (espero que para este punto ya hayas captado la idea) _¿y si hago un solo proyecto y solo lo traduzco?_...
@@ -38,6 +40,9 @@ Aquí es donde Gotham se pone turbio, porque hay muchas opciones para haces app 
 ### React Native
 Un framework muy completo, permitiendo crear web apps, o sea, aplicaciones web, que funcionan en iOS, Android y pues, en web.
 Aquí es super recomentable que sepas las bases de desarrollo web, hasta un poquito más, porque JS será tu amiga. _([Otra vez yo, checa el camino web](/web.md))_
+Ahora, un poema, digo, un curso:
+
+* [Curso de React Native](https://www.youtube.com/watch?v=DLX62G4lc44)
 
 ### Flutter
 Amado por muchos odiado por otros, Flutter es un framework de Dart (_¿de qué?_) el cual permite crear un código para aplicaciones en Android y iOS, en este caso, la _traducción_ a código nativo es lo más cercano a como si la hubieras desarrollado en nativo. Hoy en día está teniendo un auge increíble, por la versatilidad y facilidad que tiene.
@@ -49,7 +54,5 @@ Aquí un curso de freeCodeCamp.org para empezar con Flutter:
 ### Ionic
 Este framework para crear aplicaciones multiplataforma es lo más cercano a web de lo que hay ahora, sin embargo esto sacrifica un poco su compatibilidad nativa, por lo que no es muy recomentable que la uses si quieres hacer algo muy grande.
 Como siempre, un curso:
+
 * [Curso de Ionic](https://www.youtube.com/watch?v=AvbuIRg8_Jg)
-
-## [Anterior](page3.md) | [Siguiente](page5.md)
-
