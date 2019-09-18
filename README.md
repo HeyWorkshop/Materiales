@@ -18,7 +18,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
 # Talleres hasta el momento
-* [¿Qué quiero programar?](/Talleres/que-quiero-programar/main.md)
+* [¿Qué quiero programar?](/Talleres/que-quiero-programar/page1.md)
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
 * [Introducción Git](/Talleres/Git/Page1.md)
 * [Tu primer lenguaje: JavaScript](/Talleres/Mi_primer_lenguaje_Javascript/Page1.md)
