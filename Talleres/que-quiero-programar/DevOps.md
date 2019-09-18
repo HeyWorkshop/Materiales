@@ -1,11 +1,12 @@
 ![DevOps Image](devops.jpg)
 
+Seguramente te ha pasado que al hacer un programa, funciona a la perfección en tu computadora pero al probarlo en otro equipo este programa falla ¿Por qué sucede esto? Existen muchas posibles razones, podría ser un cambio de configuración del ambiente en donde está corriendo, distintas versiones del sistema operativo, entre otros. Pero lo menos importante es la razón por la que esto sucede, lo importante es considerar estos riegos y evitar que sucedan ya que en ambientes laborales estos fallos significan pérdidas económicas o de prestigio.
+
 # ¿Qué es DevOps?
 
 DevOps más que una profesión es una cultura y una serie de prácticas así como un conjunto de herramientas 
 que nos ayudan a crear y mantener software de manera ágil para los usuarios.
-Tiene como objetivo principal minimizar el tiempo de entrega de nuevas versiones de software asegurando 
-también la calidad de este.
+Tiene como objetivo principal minimizar el tiempo de entrega de nuevas versiones de software así como asegurar también la calidad de este.
 
 ## Dev
 Se encarga de escribir el código para la aplicación asegurandose de la calidad del código y que no haya huecos de seguridad.
