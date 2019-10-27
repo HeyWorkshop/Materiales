@@ -63,4 +63,4 @@ lenguajesDeProgramacionCool.pop();
 lenguajesDeProgramacionCool.push("Scratch");
 ```
 
-## [Anterior](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/comentariosVariables%2CprettyThings.md) - [Siguiente]()
+## [Anterior](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/comentariosVariables%2CprettyThings.md) - [Siguiente](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/reusandoConFunciones.md)
