@@ -10,18 +10,18 @@ Resulta que una gran parte del desarrollo web recae en Javascript, y con la cons
 <br>
 Así que para subirnos a esta ola de tecnología, hemos preparado un repositorio de introducción para aprender los fundamentos de este lenguaje de programación.
 ___
-# Objetivos :mortar_board:
+# :mortar_board: Objetivos
 * Aprender los fundamentos de un lenguaje de programación 
 * Comprender la diferencia entre un lenguaje compilado e interpretado 
 * Aprender secuencias escenciales de Javascript: Funciones, bucles, controladores de flujo, etc
 * Lograr programar problemas simples en Javascript
 ___
-# Index :page_with_curl:
+# :page_with_curl: Index
 En Workshop Technology intentamos tener una organización ideal (dentro de lo que cabe), así que te hemos preparado un index en el cual podrás observar el contenido que abarcaremos en esta introducción a Javascript, y como un proverbio dijo alguna una vez, recordemos:
 > Talk is cheap, show me the code.
 > <br>- Linus Torvalds, creador y desarrollador de Linux
 
-### Conceptos :computer:
+### :computer: Conceptos
 ¿Como programamos si no sabemos lo que representa a un lenguaje de programación? En esta sección lograrás comprender los fundamentos de Javascript.
 * [¿Qué es Javascript?](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/queEsJavascript.md)
 * Comentarios, variables: cosas bonitas
@@ -31,7 +31,7 @@ En Workshop Technology intentamos tener una organización ideal (dentro de lo qu
 * Iteraciones, bucles y diversión
 * JSON, pero con menor terror
 
-### Ejercicios :running:
+### :running: Ejercicios 
 Bien, ahora sabes los fundamentos de Javascript (o al menos eso esperamos). ¿Qué sigue a continuación? Una oportunidad de probar
 tus recién obtenidas habilidades de monkey coder, ¡prueba alguno de los siguientes ejercicios!
 * Bolsa de dulces, varios ejercios simples.
