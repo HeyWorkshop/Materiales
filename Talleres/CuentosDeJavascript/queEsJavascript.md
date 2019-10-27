@@ -1,0 +1,46 @@
+# ¿Qué es Javascript?
+<p align="center">
+  <img width="480" height="320" src="https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/ReadingDoodle.svg">
+</p>
+
+## Simpleza de Javascript
+Javascript es un lenguaje de programación usado para el desarrollo de sitios web. Cada que observas un elemento interactivo en un sitio 
+web, lo más probable es que este utilizando Javascript. 
+<br>
+<br>
+Cuando entras a un sitio web, tu computadora descarga un archivo de javascript, y lo ejecuta, de esta manera proporcionando interacción 
+al sitio. 
+
+> ¿Por qué se llama Javascript?
+> <br> Cuando se creo era llamado "LiveScript", pero Java era muy popular, así que nombrarlo como un "hermanito de Java" era una buena 
+> idea para su difusión. Aunque actualmente este no tiene relación alguna con Java.
+
+## Es un lenguaje interpretado!... ¿Qué es eso?
+Existen dos tipos de lenguajes de programación:
+* compilado 
+* interpretado
+<br>
+Cuando tu programas en un lenguaje compilado, cuando tu deseas 
+probar el código, este es "compilado", es decir, este se traduce directamente a algo llamado "lenguaje máquina", el cual se encarga de 
+ejecutar todo lo que sucede en tu sistema. Al ser la comunicación directa, es decir:
+<br>
+<br>
+Programa -> Traducción -> Lenguaje máquina
+<br>
+<br>
+El proceso de ejecución es mucho más rápido y directo.
+
+### Con un lenguaje interpretado las cosas son diferentes
+Imagina que tienes un amigo llamado "Pepito" y otro llamado "Pepito II", en este caso, "Pepito II" habla tu mismo idioma, Español. Pero "Pepito" habla un idioma legendario llamado "Pepito Language", que tu no puedes entender. 
+<br>
+<br>
+Afortunadamente "Pepito II" es un muy buen amigo tuyo, y el puede traducir todo lo que digas a "Pepito", de esta manera puedes 
+comunicarte adecuadamente con "Pepito". 
+<br>
+<p align="center">
+  <img width="480" height="320" src="https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/compiledVsInterpreted.png">
+</p>
+<br>
+Aquí "Pepito II" es tu interprete, y "Pepito" es el computador, cada vez que quieras comunicarte con "Pepito", "Pepito II" tiene que 
+traducir todo lo que digas a "Pepito Language" que para nuestro ejemplo, cumple la funcionalidad de lenguaje máquina. Pero esto sucede 
+en todo momento, en lugar de compilar todo antes.
