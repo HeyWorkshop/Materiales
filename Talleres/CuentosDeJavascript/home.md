@@ -26,7 +26,7 @@ En Workshop Technology intentamos tener una organización ideal (dentro de lo qu
 * [¿Qué es Javascript?](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/queEsJavascript.md)
 * [Comentarios, variables: cosas bonitas](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/comentariosVariables%2CprettyThings.md)
 * [¿Como arreglar un arreglo? (y otro tipo de datos)](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/arreglandoUnArreglo.md)
-* Reusando código, con la magia de las funciones
+* [Reusando código, con la magia de las funciones](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/reusandoConFunciones.md)
 * Comparando con comparadores y otras sandeces
 * Iteraciones, bucles y diversión
 * JSON, pero con menor terror
