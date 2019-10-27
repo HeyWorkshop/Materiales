@@ -1,8 +1,9 @@
+# :star2: Comentarios, variables: cosas bonitas
+
 <p align="center">
   <img width="480" height="320" src="https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/LovingDoodle.svg">
 </p>
 
-# :star2: Comentarios, variables: cosas bonitas
 ### :thought_balloon: Comentarios
 Los comentarios son una gran forma de dejarte notas en tu código, ya que estos son ignoradas en ejecución. Hay dos formas de escribir 
 comentarios en Javascript, primero tenemos `//` que es utilizado para una sóla línea.
