@@ -39,7 +39,7 @@ tus recién obtenidas habilidades de monkey coder, ¡prueba alguno de los siguie
 * Lector de hobbies, exhibe tus gustos (be careful)
 * Fizz Buzz
 * Calculadora de Exani
-* Tomas dice, pero tomas sabe Javascript
+* Tomás dice, pero Tomás sabe Javascript
 ___
 
 ## [Siguiente](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/queEsJavascript.md)
