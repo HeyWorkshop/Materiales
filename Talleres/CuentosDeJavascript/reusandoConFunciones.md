@@ -33,7 +33,7 @@ estoEsUnMalHabito = 1;
 estoEsUnMalHabito = 2; 
 // esto es valido, estamos accediendo a una variable que fue definida dentro de una función.
 ```
-Por eso es importante utilizar ``var`` al definir variables.
+Por eso es importante utilizar ``var`` al definir variables, ya que esto nos impide realizar esto.
 
 ### :leftwards_arrow_with_hook: Retornar valores en una función
 Hasta ahora al usar una función hemos utilizado ``console.log(valor)``, lo cual imprime ``valor`` en la consola. Sin embargo, ¿qué tal si queremos usar el valor retornado de la función? Para eso podemos utilizar la palabra clave ``return``, donde especificaremos el valor a retornar por la función.
