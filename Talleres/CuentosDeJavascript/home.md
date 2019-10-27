@@ -35,7 +35,7 @@ En Workshop Technology intentamos tener una organización ideal (dentro de lo qu
 Bien, ahora sabes los fundamentos de Javascript (o al menos eso esperamos). ¿Qué sigue a continuación? Una oportunidad de probar
 tus recién obtenidas habilidades de monkey coder, ¡prueba alguno de los siguientes ejercicios!
 * Bolsa de dulces, varios ejercios simples.
-* Sumador que suma sumas
+* Convertidor de Celsius a Fahrenheit
 * Lector de hobbies, exhibe tus gustos (be careful)
 * Fizz Buzz
 * Calculadora de Exani
