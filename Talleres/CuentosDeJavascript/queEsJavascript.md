@@ -45,3 +45,5 @@ Aquí "Pepito II" :bust_in_silhouette: es tu interprete, y "Pepito" :boy: es el 
 "Pepito", "Pepito II" tiene que 
 traducir todo lo que digas a "Pepito Language" que para nuestro ejemplo, cumple la funcionalidad de lenguaje máquina. Pero esto sucede 
 en todo momento, en lugar de compilar todo antes.
+
+## [Anterior](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/home.md) - [Siguiente](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/comentariosVariables%2CprettyThings.md)
