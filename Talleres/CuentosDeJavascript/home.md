@@ -23,6 +23,7 @@ En Workshop Technology intentamos tener una organización ideal (dentro de lo qu
 
 ### Conceptos
 ¿Como programamos si no sabemos lo que representa a un lenguaje de programación? En esta sección lograrás comprender los fundamentos de Javascript.
+* ¿Qué es Javascript? 
 * Comentarios, variables: cosas bonitas
 * ¿Como arreglar un arreglo? (y otro tipo de datos)
 * Reusando código, con la magia de las funciones
