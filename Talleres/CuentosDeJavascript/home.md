@@ -1,6 +1,8 @@
-![](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/GroovyDoodle.svg)
 # Aprendamos Javascript.
 
+![](https://github.com/WorkshopTechnology/Materiales/blob/master/Talleres/CuentosDeJavascript/GroovyDoodle.svg)
+
+# Descripción
 Javascript es uno de los lenguajes más importantes de desarrollo en la actualidad, punto. El desarrollo web es una de las áreas más importantes de desarrollo de la actualidad.
 <br>
 <br>
