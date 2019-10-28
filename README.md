@@ -21,6 +21,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [¿Qué quiero programar?](/Talleres/que-quiero-programar/main.md)
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
 * [Introducción Git](/Talleres/Git/Page1.md)
+* [Cuentos de Javascript](/Talleres/CuentosDeJavascript/1.-home.md)
 * [Tu primer lenguaje: JavaScript](/Talleres/Mi_primer_lenguaje_Javascript/Page1.md)
 * [Lo básico de HTML & CSS](/Talleres/html-css/Inicio.md)
 * [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
