@@ -1,5 +1,5 @@
 
-# Operadores Java
+# Operadores en Java
 - Asignación y Aritméticos
 - Unario
 - Igualdad y Relacionales
