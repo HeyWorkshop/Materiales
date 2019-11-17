@@ -49,10 +49,12 @@ Los operadores de igualdad y relacionales en Java son aquellos que nos permiten 
 Los operadores condicionales en Java son aquellos que evalúan dos expresiones booleanas.
 
 |Operador|Descripción|
-|-|-|
+|---|---|
 |&&|Operador condicional AND|
-| `||` |Operador condicional OR|
+| No se pode mostrar en tablas estara abajo |Operador condicional OR|
 |?:|Operador ternario|
 |instanceof|Operoador instanceof|
 
+
+`||` - Operador condicional OR
 ## [Anterior](page3.md)  --  [Siguiente](page5.md)
