@@ -1,104 +1,52 @@
-# Estructuras de Control
-Hay tres tipos de estructuras de control:
+# Operadores Java
+- Asignación y Aritméticos
+- Unario
+- Igualdad y Relacionales
+- Condicionales
+- Bit(Para otra taller)
 
-- Ramas condicionales, que usamos para elegir entre dos o más rutas. Hay tres tipos en Java: _if/else/else if_, _ternary operator_ and _switch_.
-- Ciclos que se utilizan para iterar a través de múltiples valores / objetos y ejecutar repetidamente bloques de código específicos. Los tipos de ciclos básicos en Java son _for_, _while_ and _do while_.
-- Declaraciones de ramificación, que se utilizan para alterar el flujo de control en los ciclos. Hay dos tipos en Java: _break_ and _continue_.
-
-### If/Else/Else If
-```
-if(expresion2){
-	//operacion 1
-}else if(expresion2){
-	//operacion 2
-}else{
-	//operacion 3
-}
-```
+### Asignación
+`variable = valor;`
 Ejemplo:
-```
-int count = 2;
-if(count > 2){
-	System.out.println("Variable count es mayor que 2");
-}else{
-	System.out.println("Variable count es no es mayor que 2");
-}
-```
+`int numero = 3;`
 
-### Operación Ternaria
-```
-System.out.println(expresion ? operacion1 : operacion2);
-```
-Usaremos el ejemplo anterior
-```
-int count = 2;
-System.out.println(count > 2 ? "mayor que 2" : "no es mayor que 2");
-```
+### Aritméticos
+Los operadores aritméticos en Java son los operadores que nos permiten realizar operaciones matemáticas: **_suma, resta, multiplicación, división y resto_**.
 
-### Switch
-```
-switch(variable){
-case valor1:
-	operacion1
-	break;
-case valor2:
-	operacion2
-	break;
-default:
-	operacion3
-	break;
-}
-```
-Ejemplo:
-```
-int count = 3;
-switch (count) {
-case 0:
-    System.out.println("count es igual a 0");
-    break;
-case 1:
-    System.out.println("count es igual a 1");
-    break;
-default:
-    System.out.println("count es negativo o mayor que 1");
-    break;
-}
-```
+|Operador|Descripción|
+|-|-|
+|+|Operador de Suma. Concatena cadenas para la suma de String|
+|-|Operador de Resta|
+|*|Operador de Multiplicación|
+|/|Operador de División|
+|%|Operador de Resto|
 
-### Ciclos
+### Unarios
+Los operadores unarios requieren solo un operando; realizan varias operaciones, como aumentar / disminuir un valor en uno, negar una expresión o invertir el valor de un valor booleano.
+|Operador|Descripción|
+|-|-|
+|+|Operador unario suma. Indica un número positivo|
+|-|Operador unario resta. Niega una expresión|
+|++|Operador de incremento. Incrementa el valor en 1|
+|--|Operador de decremento. Decrementa el valor en 1|
+|!|Operador de complemento lógico. Invierte el valor de un booleano|
 
-for loop
-```
-for(int i = 1; i <= 50; i++){
-	System.out.println(i);
-}
-```
-while loop
-```
-int i = 1;
-while(i <= 50){
-	System.out.println(i);
-	i++;
-}
-```
+### Igualdad y Relacionales
+|Operador|Descripción|
+|-|-|
+|==|igual a|
+|!=|no igual a|
+|>|mayor que|
+|>=|mayor o igual que|
+|<|menor que|
+|<=|menor o igual que|
 
-### Break y Continue
-Podemos usar `break;` para salir de un ciclo antes que se termina.
-```
-for(int i = 1; i <= 10; i++){
-	if(i == 5){
-		break;
-	}
-	System.out.println(i);
-}
-```
-Igual esta `continue;` para saltar al resto del ciclo donde estamos.
-```
-for(int i = 1; i <= 10; i++){
-	if(i == 5){
-		continue;
-	}
-	System.out.println(i);
-}
-```
+### Condicionales
+|Operador|Descripción|
+|-|-|
+|&&|Operador condicional AND|
+| `||` |Operador condicional OR|
+|?:|Operador ternario|
+|instanceof|Operoador instanceof|
+
 ## [Anterior](page3.md)  --  [Siguiente](page5.md)
