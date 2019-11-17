@@ -17,5 +17,7 @@ El primer nombre del lenguaje fue Oak, luego se conoció como Green y finamente 
 
 ## Temas  
 * [Instalando y Configurando Java](page0.md)
+* [Tu primera aplicación en Java](page1.md)
+* [Tipos de Datos Primitivos](page2.md)
 
 ## [Siguiente](page1.md)

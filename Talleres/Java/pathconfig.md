@@ -1,4 +1,4 @@
-## Cómo configurar la variable PATH
+# Cómo configurar la variable  PATH
 
 En Windows, para que  **javac.exe**  sea reconocido, se pueden seguir los siguientes pasos:
 
