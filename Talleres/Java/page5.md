@@ -21,7 +21,7 @@ int count = 2;
 if(count > 2){
 	System.out.println("Variable count es mayor que 2");
 }else{
-	System.out.println("Variable count es no es mayor que 2");
+	System.out.println("Variable count no es mayor que 2");
 }
 ```
 
@@ -83,7 +83,7 @@ while(i <= 50){
 ```
 
 ### Break y Continue
-Podemos usar `break;` para salir de un ciclo antes que se termina.
+Podemos usar `break;` para salir de un ciclo antes de que se termine.
 ```
 for(int i = 1; i <= 10; i++){
 	if(i == 5){
