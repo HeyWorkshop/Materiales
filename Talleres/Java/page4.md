@@ -1,3 +1,4 @@
+
 # Operadores Java
 - Asignación y Aritméticos
 - Unario
@@ -23,6 +24,7 @@ Los operadores aritméticos en Java son los operadores que nos permiten realizar
 
 ### Unarios
 Los operadores unarios requieren solo un operando; realizan varias operaciones, como aumentar / disminuir un valor en uno, negar una expresión o invertir el valor de un valor booleano.
+
 |Operador|Descripción|
 |-|-|
 |+|Operador unario suma. Indica un número positivo|
@@ -32,6 +34,8 @@ Los operadores unarios requieren solo un operando; realizan varias operaciones, 
 |!|Operador de complemento lógico. Invierte el valor de un booleano|
 
 ### Igualdad y Relacionales
+Los operadores de igualdad y relacionales en Java son aquellos que nos permiten comparar el contenido de una variable contra otra atendiendo a si son variables con un valor igual o distinto o bien si los valores son mayores o menores.
+
 |Operador|Descripción|
 |-|-|
 |==|igual a|
@@ -42,6 +46,8 @@ Los operadores unarios requieren solo un operando; realizan varias operaciones, 
 |<=|menor o igual que|
 
 ### Condicionales
+Los operadores condicionales en Java son aquellos que evalúan dos expresiones booleanas.
+
 |Operador|Descripción|
 |-|-|
 |&&|Operador condicional AND|
