@@ -24,7 +24,7 @@ El primer nombre del lenguaje fue Oak, luego se le conoció como Green y finamen
 * [Estructuras de Control](page5.md)
 * [Clase String](page6.md)
 * [Arrays](page7.md)
-* [Metodos](page8.md)
+* [Métodos](page8.md)
 * [Nuestro primer objeto y interfaz](page9.md)
 
 ## [Siguiente](page0.md)
