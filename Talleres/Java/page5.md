@@ -2,7 +2,7 @@
 Hay tres tipos de estructuras de control:
 
 - Ramas condicionales, que usamos para elegir entre dos o más rutas. Hay tres tipos en Java: _if/else/else if_, _ternary operator_ and _switch_.
-- Ciclos que se utilizan para iterar a través de múltiples valores / objetos y ejecutar repetidamente bloques de código específicos. Los tipos de ciclos básicos en Java son _for_, _while_ and _do while_.
+- Bucles que se utilizan para iterar a través de múltiples valores / objetos y ejecutar repetidamente bloques de código específicos. Los tipos de Bucles básicos en Java son _for_, _while_ and _do while_.
 - Declaraciones de ramificación, que se utilizan para alterar el flujo de control en los ciclos. Hay dos tipos en Java: _break_ and _continue_.
 
 ### If/Else/Else If
@@ -67,13 +67,13 @@ default:
 
 ### Ciclos
 
-for loop
+Bucle for: 
 ```
 for(int i = 1; i <= 50; i++){
 	System.out.println(i);
 }
 ```
-while loop
+Bucle while: 
 ```
 int i = 1;
 while(i <= 50){
@@ -83,7 +83,7 @@ while(i <= 50){
 ```
 
 ### Break y Continue
-Podemos usar `break;` para salir de un ciclo antes de que se termine.
+Podemos usar `break;` para salir de un Bucle antes de que se termine.
 ```
 for(int i = 1; i <= 10; i++){
 	if(i == 5){
@@ -92,7 +92,7 @@ for(int i = 1; i <= 10; i++){
 	System.out.println(i);
 }
 ```
-Igual esta `continue;` para saltar al resto del ciclo donde estamos.
+Igual esta `continue;` para saltar al resto del Bucle donde estamos.
 ```
 for(int i = 1; i <= 10; i++){
 	if(i == 5){
