@@ -1,4 +1,4 @@
-# Instalando y Configurando Java
+# Instalación y Configuración de Java
 
 1. Descargar y instalar el Java Developement Kit([JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)).
 2. [Configurar la variable PATH](pathconfig.md).

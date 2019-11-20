@@ -1,14 +1,14 @@
 # Nuestro primer objeto y interfaz
 
 Interfaz Figura:
-```
+```java
 public interface Figura{
 	public double area();
 	public double perimetro();
 }
 ```
 Clase abstracto FiguraImprimible:
-```
+```java
 public abstract class FiguraImprimible implements Figura{
 
 	public void imprimirArea() {
@@ -22,7 +22,7 @@ public abstract class FiguraImprimible implements Figura{
 ```
 
 Clase Objeto Triangulo:
-```
+```java
 public class Triangulo extends FiguraImprimible{
 
 	private double base;
@@ -53,7 +53,7 @@ public class Triangulo extends FiguraImprimible{
 ```
 
 Como instanciar nuestro nuevo objeto
-```
+```java
 public class MiPrimeraAplicacion{
 	public static void main(String[] args){
 		Triangulo triangulo = new Triangulo(2,3,new double[]{2,3,4});

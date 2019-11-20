@@ -4,12 +4,16 @@
 - Unario
 - Igualdad y Relacionales
 - Condicionales
-- Bit(Para otra taller)
+- Bit(Para otro taller)
 
 ### Asignación
+
 `variable = valor;`
+
 Ejemplo:
-`int numero = 3;`
+```java
+int numero = 3;
+```
 
 ### Aritméticos
 Los operadores aritméticos en Java son los operadores que nos permiten realizar operaciones matemáticas: **_suma, resta, multiplicación, división y resto_**.
@@ -51,7 +55,7 @@ Los operadores condicionales en Java son aquellos que evalúan dos expresiones b
 |Operador|Descripción|
 |---|---|
 |&&|Operador condicional AND|
-| No se pode mostrar en tablas estara abajo |Operador condicional OR|
+| No se puede mostrar en tablas estara abajo |Operador condicional OR|
 |?:|Operador ternario|
 |instanceof|Operoador instanceof|
 

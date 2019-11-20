@@ -6,7 +6,7 @@ Hay tres tipos de estructuras de control:
 - Declaraciones de ramificación, que se utilizan para alterar el flujo de control en los ciclos. Hay dos tipos en Java: _break_ and _continue_.
 
 ### If/Else/Else If
-```
+```java
 if(expresion2){
 	//operacion 1
 }else if(expresion2){
@@ -16,7 +16,7 @@ if(expresion2){
 }
 ```
 Ejemplo:
-```
+```java
 int count = 2;
 if(count > 2){
 	System.out.println("Variable count es mayor que 2");
@@ -26,17 +26,17 @@ if(count > 2){
 ```
 
 ### Operación Ternaria
-```
+```java
 System.out.println(expresion ? operacion1 : operacion2);
 ```
 Usaremos el ejemplo anterior
-```
+```java
 int count = 2;
 System.out.println(count > 2 ? "mayor que 2" : "no es mayor que 2");
 ```
 
 ### Switch
-```
+```java
 switch(variable){
 case valor1:
 	operacion1
@@ -50,7 +50,7 @@ default:
 }
 ```
 Ejemplo:
-```
+```java
 int count = 3;
 switch (count) {
 case 0:
@@ -68,13 +68,13 @@ default:
 ### Ciclos
 
 Bucle for: 
-```
+```java
 for(int i = 1; i <= 50; i++){
 	System.out.println(i);
 }
 ```
 Bucle while: 
-```
+```java
 int i = 1;
 while(i <= 50){
 	System.out.println(i);
@@ -84,7 +84,7 @@ while(i <= 50){
 
 ### Break y Continue
 Podemos usar `break;` para salir de un Bucle antes de que se termine.
-```
+```java
 for(int i = 1; i <= 10; i++){
 	if(i == 5){
 		break;
@@ -93,7 +93,7 @@ for(int i = 1; i <= 10; i++){
 }
 ```
 Igual esta `continue;` para saltar al resto del Bucle donde estamos.
-```
+```java
 for(int i = 1; i <= 10; i++){
 	if(i == 5){
 		continue;

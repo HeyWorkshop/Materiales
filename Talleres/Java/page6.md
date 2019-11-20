@@ -1,9 +1,13 @@
 # Clase String
 Para crear una cadena tenemos dos opciones:
 - Instanciamos la clase String. Que sería una creación explicita de la clase
-`String miCadena = new String("texto");`
+```java
+String miCadena = new String("texto");
+```
 - Crear implícitamente la cadena de texto. Es decir, simplemente le asignamos el valor al objeto.
-`String miCadena = "texto";`
+```java
+String miCadena = "texto";
+```
 
 ## Métodos Básicos con Cadenas
 - length(): Devuelve el tamaño que tiene la cadena.
