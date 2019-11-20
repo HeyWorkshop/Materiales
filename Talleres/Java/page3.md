@@ -21,5 +21,6 @@ Un  **paquete**  es una forma de  _organizar elementos de software mediante un e
 
 ### Herencia
 La **herencia** es una forma de estructurar el software. Mediante la **herencia** podemos indicar que una clase hereda de otra. Es decir la clase extiende las capacidades (propiedades y métodos) que tenga y añade nuevas propiedades y acciones.
+Una de las cosas que tienes que saber en la herencia es que en el constructor de la clase que hereda (o clase hija) se deberá de llamar al constructor de la clase padre. Para ello se utiliza el método especial `super();`
 
 ## [Anterior](page2.md)  --  [Siguiente](page4.md)
