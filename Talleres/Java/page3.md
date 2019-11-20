@@ -7,6 +7,7 @@ Aquí los vamos a ver por encima entrando en detalle sobre todas sus caracterís
 - Herencia
 
 ### Objeto
+Es un elemento de software que intenta representar un objeto del mundo real. De esta forma un objeto tendrá sus propiedades y acciones a realizar con el objeto. Estas propiedades y acciones están encapsuladas dentro del objeto, cumpliendo así los principios de encapsulamiento.
 Un **objeto** tiene su estado (o estados) y su comportamiento. Esto se modela mediante propiedades (o variables) y métodos. Incluso un objeto puede contener a su vez a otro tipo de objeto.
 
 ### Clase

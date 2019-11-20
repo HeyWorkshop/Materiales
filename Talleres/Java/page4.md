@@ -4,7 +4,7 @@
 - Unario
 - Igualdad y Relacionales
 - Condicionales
-- Bit(Para otro taller)
+- Bitwise(Para otro taller)
 
 ### Asignación
 
@@ -57,8 +57,12 @@ Los operadores condicionales en Java son aquellos que evalúan dos expresiones b
 |&&|Operador condicional AND|
 | No se puede mostrar en tablas estara abajo |Operador condicional OR|
 |?:|Operador ternario|
-|instanceof|Operoador instanceof|
+|instanceof|Operador instanceof|
 
 
 `||` - Operador condicional OR
+
+### Bitwise
+Los operadores bit a bit se utilizan para realizar la manipulación de bits individuales de un número. Se pueden usar con cualquiera de los tipos integrales (char, short, int, etc.). Se utilizan al realizar operaciones de actualización y consulta del árbol indexado binario.
+
 ## [Anterior](page3.md)  --  [Siguiente](page5.md)

@@ -1,4 +1,4 @@
-# Nuestro primer objeto y interfaz
+# Nuestro primer objeto e interfaz
 
 Interfaz Figura:
 ```java
