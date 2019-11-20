@@ -61,4 +61,4 @@ public class MiPrimeraAplicacion{
 	}
 }
 ```
-## [Anterior](page8.md)  --  [Inicio](inicio.md)
+## [Anterior](page8.md)  --  [Siguiente](page10.md)
