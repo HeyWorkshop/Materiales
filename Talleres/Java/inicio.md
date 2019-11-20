@@ -18,13 +18,14 @@ El primer nombre del lenguaje fue Oak, luego se le conoció como Green y finamen
 ## Temas  
 * [Instalación y Configuración de Java](page0.md)
 * [Tu primera aplicación en Java](page1.md)
-* [Conceptos Básicos en Java](page2.md)
-* [Tipos de Datos Primitivos](page3.md)
+* [Tipos de Datos Primitivos](page2.md)
+* [Conceptos Básicos en Java](page3.md)
 * [Operadores en Java](page4.md)
 * [Estructuras de Control](page5.md)
 * [Clase String](page6.md)
 * [Arrays](page7.md)
 * [Métodos](page8.md)
 * [Nuestro primer objeto y interfaz](page9.md)
+* Agregar unos ejercicios v:
 
 ## [Siguiente](page0.md)

@@ -1,24 +1,12 @@
-# Conceptos Básicos en Java
-Aquí los vamos a ver por encima entrando en detalle sobre todas sus características
-- Objeto
-- Clase
-- Paquete
-- Interfaz
-- Herencia
+# Tipos de Datos Primitivos
+### ¿Qué son los tipos de datos primitivos en Java?
+Java es un lenguaje de tipado estático. Es decir, se define el tipo de dato de la variable a la hora de definir esta. Es por ello que todas las variables tendrán un tipo de dato asignado.
 
-### Objeto
-Un **objeto** tiene su estado (o estados) y su comportamiento. Esto se modela mediante propiedades (o variables) y métodos. Incluso un objeto puede contener a su vez a otro tipo de objeto.
+El lenguaje Java da de base una serie de tipos de datos primitivos.
+![Datos Primitivos](resources/primitivedatatypes.png)
 
-### Clase
-Las clases representan los prototipos de los objetos que tenemos en el mundo real. Es decir, **es una generalización de un conjunto de objetos**. A su vez **los objetos serán instancias de una determinada clase**.
 
-### Interfaz
-Un **interfaz** es una forma de establecer un contrato entre dos elementos. Un **interfaz** indica qué acciones son las que una determinada clase nos va a ofrecer cuando vayamos a utilizarla.
-
-### Paquete
-Un  **paquete**  es una forma de  _organizar elementos de software mediante un espacio de nombres_. Así podremos afrontar desarrollos grandes de software facilitando la forma de encontrar o referirnos a un elemento.
-
-### Herencia
-La **herencia** es una forma de estructurar el software. Mediante la **herencia** podemos indicar que una clase hereda de otra. Es decir la clase extiende las capacidades (propiedades y métodos) que tenga y añade nuevas propiedades y acciones.
+Hay un tipo de dato String para el manejo de cadenas que no es en sí un tipo de dato primitivo. Con el tipo de dato String podemos manejar cadenas de caracteres.
+El String no es un tipo de dato primitivo del lenguaje Java. Pero su uso es igual de importante que el de los tipos de datos revisados aquí. Veremos más en detalle el uso del tipo String.
 
 ## [Anterior](page1.md)  --  [Siguiente](page3.md)
