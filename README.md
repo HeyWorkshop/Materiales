@@ -36,3 +36,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Tecnologías de Documentación](/Talleres/Documentacion/PAGE1.md)
 * [Servicios Web con NodeJS](/Talleres/web-services/README.md)
 * [Introducción Java](/Talleres/Java/inicio.md)
+
+### Workshop Weekends
+* [Python: from zero to hero](https://github.com/VictorLaraL/PythonBegginers)
+* [Tu primera webapp](https://github.com/MiguelRAvila/MiPrimeraAplicacionWeb/blob/master/1.-home.md)
