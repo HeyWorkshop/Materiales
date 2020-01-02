@@ -19,7 +19,7 @@ Guardamos los cambios con un mensaje para identificarlos.
 Nos da una lista de todos los commits de la **rama actual** con su respectiva información.  
 
 * `$ git reflog`
-Nos da una lista de todos los commits del **repositorio** con su respectiva información.
+Nos da una lista de los commits a los que `HEAD` y otras referencias (como ramas) han apuntado.
 
 * `$ git checkout <Nombre de la rama o identificador del commit>`
 Con este comando viajamos a través de nuestros commits o nuestras ramas.
