@@ -33,4 +33,8 @@ En este taller se enseñará a usar la herramienta Git y sus funcionalidades med
 
 ***
 
+# Más allá de este material
+
+Para un estudio amplio y a profundidad de Git donde los conceptos se enfatizan sobre los comandos, véase [Manual definitivo de Git](https://github.com/HerCerM/ManualDefinitivoGit). No sólo los fundamentos son cubiertos, también temas intermedios y avanzados.
+
 ## [Siguiente](Page2.md)
