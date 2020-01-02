@@ -8,7 +8,7 @@ Es una linea de tiempo en nuestro proyecto, que nos sirven para arreglar errores
 
 ### Ejemplo práctico
 
-Vamos a presentar un ejemplo simple de ramificar y de fusionar, con un flujo de trabajo que se podría presentar en la realidad. Imagina que sigues los siquientes pasos:
+Vamos a presentar un ejemplo simple de ramificar y de fusionar, con un flujo de trabajo que se podría presentar en la realidad. Imagina que sigues los siguientes pasos:
 
 1. Trabajas en un sitio web.
 2. Creas una rama para un nuevo tema sobre el que quieres trabajar.

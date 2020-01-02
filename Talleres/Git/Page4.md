@@ -13,13 +13,13 @@ Con este comando decidimos qué archivos están listos para el siguiente paso. *
 * `$ git commit -m "Mensaje del commit"`
 Guardamos los cambios con un mensaje para identificarlos. 
 
-* `$ git commit --amend -m "Nuevo mensaje del commit"` Sobreescribimos el último commit con nuevos datos.
+* `$ git commit --amend -m "Nuevo mensaje del commit"` Sobrescribimos el último commit con nuevos datos.
 
 * `$ git log`
 Nos da una lista de todos los commits de la **rama actual** con su respectiva información.  
 
 * `$ git reflog`
-Nos da una lista de todos los commits del **repositorio** con su respectiva información.
+Nos da una lista de los commits a los que `HEAD` y otras referencias (como ramas) han apuntado.
 
 * `$ git checkout <Nombre de la rama o identificador del commit>`
 Con este comando viajamos a través de nuestros commits o nuestras ramas.
