@@ -1,4 +1,3 @@
-# ¡Bienvenidos a Workshop!
 ![Logo WT](./Imagenes/brand.png)
 
 ### ¿Qué es Workshop?
