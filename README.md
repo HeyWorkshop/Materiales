@@ -5,7 +5,7 @@
 ### Index
 
 -   [Materiales](#)
-    -   [¿Qué es Workshop](#qué-es-workshop)
+    -   [¿Qué es Workshop?](#qué-es-workshop)
     -   [Talleres](#nuestros-talleres)
     -   [Cursos](#nuestros-cursos)
 
