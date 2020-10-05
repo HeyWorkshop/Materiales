@@ -3,14 +3,14 @@
 > ### Los materiales de todas nuestras actividades
 
 ### ¿Qué es Workshop?
-Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software, para posteriormente participar por un internship con nuestros partners asociados, durante el verano.   
-
+Workshop es una organización centrada en crear conexiones entre personas y oportunidades de crecimiento académico y profesional, desarrollando actividades con la ayuda de empresas de tecnología, instituciones académicas y estudiantes.
 
 ### ¿Cuáles son nuestros objetivos?
 * Formar gente autodidacta.
-* Aprender y enseñar nuevas tecnologías.
+* Desarrollar actividades que incentiven a la participación en actividades extraescolares y el aprendizaje de nuevas habilidades.
 * Facilitar la capacitación necesaria que los ayude a la incorporación al ambiente profesional.
 * Generar vinculación entre estudiantes y personas del ámbito profesional.   
+* Compartir y generar experiencias significativas entre los estudiantes.
 
 
 ### ¿Qué se necesita para formar parte de los talleres?
@@ -18,7 +18,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * El alumno debe estar dispuesto a participar.
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
-### Talleres hasta el momento
+### Nuestros Talleres
 * [¿Qué quiero programar?](/Talleres/que-quiero-programar/main.md)
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
 * [Introducción Git](/Talleres/Git/Page1.md)
@@ -38,6 +38,6 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * [Servicios Web con NodeJS](/Talleres/web-services/README.md)
 * [Introducción Java](/Talleres/Java/inicio.md)
 
-### Workshop Weekends
+### Nuestros Cursos
 * [Python: from zero to hero](https://github.com/VictorLaraL/PythonBegginers)
 * [Tu primera webapp](https://github.com/MiguelRAvila/MiPrimeraAplicacionWeb/blob/master/1.-home.md)
