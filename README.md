@@ -1,4 +1,4 @@
-![Logo WT](./Imagenes/repoheader.png)
+![Logo WT](./Imagenes/repoheaderflat.png)
 
 > ### Los materiales de todas nuestras actividades
 
