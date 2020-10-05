@@ -1,4 +1,6 @@
-![Logo WT](./Imagenes/brand.png)
+![Logo WT](./Imagenes/repoheader.png)
+
+> ### Los materiales de todas nuestras actividades
 
 ### ¿Qué es Workshop?
 Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo el aprender y enseñar nuevas tecnologías y técnicas asociadas al desarrollo de proyectos de software, para posteriormente participar por un internship con nuestros partners asociados, durante el verano.   
