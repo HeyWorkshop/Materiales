@@ -1,4 +1,4 @@
-![Logo WT](./Imagenes/repoheaderflat.png)
+![Logo Workshop](./Imagenes/repoheaderflat.png)
 
 > ### Los materiales de todas nuestras actividades
 
@@ -18,7 +18,7 @@ Es una serie de talleres prácticos hechos por alumnos que tienen como objetivo 
 * El alumno debe estar dispuesto a participar.
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
-# Talleres hasta el momento
+### Talleres hasta el momento
 * [¿Qué quiero programar?](/Talleres/que-quiero-programar/main.md)
 * [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
 * [Introducción Git](/Talleres/Git/Page1.md)
