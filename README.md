@@ -26,24 +26,8 @@ Workshop es una organización centrada en crear conexiones entre personas y opor
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
 ### Nuestros Talleres
-* [¿Qué quiero programar?](/Talleres/que-quiero-programar/main.md)
-* [Mi amiga la terminal](/Talleres/Mi_amiga_terminal/Page1.md)
-* [Introducción Git](/Talleres/Git/Page1.md)
-* [Cuentos de Javascript](/Talleres/CuentosDeJavascript/1.-home.md)
-* [Tu primer lenguaje: JavaScript](/Talleres/Mi_primer_lenguaje_Javascript/Page1.md)
-* [Lo básico de HTML & CSS](/Talleres/html-css/Inicio.md)
-* [Lo básico de Foundation 6](/Talleres/foundation/page1.md)
-* [Lo básico de Firebase](/Talleres/firebase/index.md)
-* [Lo básico de Heroku](/Talleres/heroku/INDEX.md)
-* [Conoce Atom - El editor de texto de GitHub](/Talleres/Taller-Atom/README.md)
-* [Conoce Latex - Crea documentos de calidad](/Talleres/IntroduccionLatex/index.md)
-* [Facebook Bots](/Talleres/facebook-bots/README.md)
-* [Gulp](/Talleres/gulp/Page1.md)
-* [PostCss](/Talleres/PostCss/Main.md)
-* [Polymer](/Talleres/Polymer/README.md)
-* [Tecnologías de Documentación](/Talleres/Documentacion/PAGE1.md)
-* [Servicios Web con NodeJS](/Talleres/web-services/README.md)
-* [Introducción Java](/Talleres/Java/inicio.md)
+* [¿Qué quiero programar?](/Workshops/QueQuieroProgramar/main.md)
+* [Introducción Git y Github](/Workshops/GitGithub/Page1.md)
 
 ### Nuestros Cursos
 * [Python: from zero to hero](https://github.com/VictorLaraL/PythonBegginers)
