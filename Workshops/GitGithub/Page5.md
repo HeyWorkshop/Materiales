@@ -66,4 +66,4 @@ Para luego pasarnos a ella escribiendo `$ git checkout <Nombre de la rama>`
 ***
 
 
-## [Anterior](Page4.md)  --  [Siguiente](Page6.md)
+## [Anterior 👈](Page4.md)  -  [👉 Siguiente](Page6.md)

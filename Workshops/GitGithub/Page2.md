@@ -22,4 +22,4 @@ Nos permite:
 
 ***
 
-## [Anterior](Page1.md)  --  [Siguiente](Page3.md)
+## [Anterior 👈](Page1.md)  -  [👉 Siguiente](Page3.md)

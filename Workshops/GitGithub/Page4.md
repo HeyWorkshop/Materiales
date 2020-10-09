@@ -52,4 +52,4 @@ A medida que editas archivos, Git los ve como modificados, porque los has cambia
 
 ***
 
-## [Anterior](Page3.md)  --  [Siguiente](Page5.md)
+## [Anterior 👈](Page3.md)  -  [👉 Siguiente](Page5.md)

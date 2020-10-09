@@ -59,4 +59,4 @@ La configuración se lleva a cabo vía terminal con los siguientes comandos:
 
 ***
 
-## [Anterior](Page2.md)  --  [Siguiente](Page4.md)
+## [Anterior 👈](Page2.md)  -  [👉 Siguiente](Page4.md)
