@@ -1,5 +1,5 @@
 # **Introducción Git**  
-[![git_logo.png](https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png)](https://git-scm.com/)  
+![Head](https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Head.png)
 
 # Descripción  
 Git es un software de control de versiones, usado para el desarrollo de diversos proyectos. Múltiples empresas y equipos de desarrollo de software hacen uso de éste para llevar un mejor control de cambios en el código fuente de sus proyectos.  
