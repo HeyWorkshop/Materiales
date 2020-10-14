@@ -12,15 +12,6 @@ Antes de tomar el taller es necesario que los participantes tengan:
 
 - Una cuenta de Github
 - Descargar e Instalar [Gitkraken](https://www.gitkraken.com).
-- 
-
-
-## Objetivos
-
--   Conocer la herramienta Git.
--   Saber implementar Git en el desarrollo de proyectos.
--   Aprender los comandos para manipular Git.
--   Poder manejar versiones de proyectos.
 
 ## Temas
 
