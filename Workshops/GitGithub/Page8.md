@@ -31,7 +31,7 @@ Ademas de ello también puedes contribuir a proyectos que se hallan en desarroll
 Los también llamados *repos* estan alojados en un servidor de github. Los repositorios tienen una gran cantidad de formas para interactuar con ellos.
 
 <p align="center">
-    <img src="">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/RepoPreview.png">
 </p>
 
 <div align="center">
