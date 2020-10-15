@@ -25,14 +25,14 @@ Antes de tomar el taller es necesario que los participantes tengan:
 
 ### ¿Qué es Github? (segunda parte)
 
--   [Introducción a repositorios remotos](/Workshops/GitGithub/Page7.md)
--   [¿Qué es GitHub y cómo funciona?](/Workshops/GitGithub/Page8.md)
--   [Trabajar con repositorios remotos](/Workshops/GitGithub/Page9.md)
+-   [Introducción Github](/Workshops/GitGithub/Page7.md)
+-   [¿Qué es un Repositorio en Github?](/Workshops/GitGithub/Page8.md)
+-   [Sistema de contribuciones](/Workshops/GitGithub/Page9.md)
 -   [Forks y pull request](/Workshops/GitGithub/Page10.md)
 -   [Issues](/Workshops/GitGithub/Page11.md)
 -   [Ejercicios](/Workshops/GitGithub/PAGE12.md)
 
-### Gitkraken (segunda parte)
+### Gitkraken (tercera parte)
 
 -   [Introducción a repositorios remotos](/Workshops/GitGithub/Page7.md)
 -   [¿Qué es GitHub y cómo funciona?](/Workshops/GitGithub/Page8.md)
