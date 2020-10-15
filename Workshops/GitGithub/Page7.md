@@ -19,4 +19,4 @@ GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utiliz
 
 ***
 
-## [Anterior 👈](Page1.md)  --  [👉 Siguiente](Page8.md)
+## [Inicio 👈](README.md)  --  [👉 Siguiente](Page8.md)

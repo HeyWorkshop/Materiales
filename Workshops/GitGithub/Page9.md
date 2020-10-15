@@ -91,4 +91,4 @@ Para eliminar un stash almacenado, es necesario ejecutar:
 
 [![stashdrop.png](https://s5.postimg.org/5cxuk7wo7/stashdrop.png)](https://postimg.org/image/4ano1odur/)  
 ***
-## [Anterior](Page7.md)  --  [Siguiente](Page10.md)
+## [Anterior 👈](Page8.md)  --  [👉 Siguiente](Page10.md)

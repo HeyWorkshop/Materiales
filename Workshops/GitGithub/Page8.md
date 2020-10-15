@@ -33,4 +33,4 @@ Ademas de ello también puedes contribuir a proyectos que se hallan en desarroll
 
 [![repository.png](https://s5.postimg.org/h42vsogtj/repository.png)](https://postimg.org/image/e9zqf8en7/)
 
-## [Anterior](Page7.md)  --  [Siguiente](Page9.md)
+## [Anterior 👈](Page7.md)  --  [👉 Siguiente](Page9.md)
