@@ -27,7 +27,7 @@ Workshop es una organización centrada en crear conexiones entre personas y opor
 
 ### Nuestros Talleres
 * [¿Qué quiero programar?](/Workshops/QueQuieroProgramar/main.md)
-* [Introducción Git y Github](/Workshops/GitGithub/Page1.md)
+* [Introducción Git y Github](/Workshops/GitGithub/README.md)
 
 ### Nuestros Cursos
 * [Python: from zero to hero](https://github.com/VictorLaraL/PythonBegginers)
