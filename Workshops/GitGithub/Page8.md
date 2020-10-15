@@ -26,4 +26,16 @@ Ademas de ello también puedes contribuir a proyectos que se hallan en desarroll
 * Configurar tu perfil.  
 * Ir a repositorios y click en crear uno nuevo.  
 
+## ¿Cómo es un Repositorio en Github?
+
+Los también llamados *repos* estan alojados en un servidor de github. Los repositorios tienen una gran cantidad de formas para interactuar con ellos.
+
+<p align="center">
+    <img src="">
+</p>
+
+<div align="center">
+    <h5>Captura de pantalla de un repositorio</h5>
+</div>
+
 ## [Anterior 👈](Page7.md)  --  [👉 Siguiente](Page9.md)
