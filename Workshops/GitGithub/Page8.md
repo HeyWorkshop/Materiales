@@ -26,7 +26,7 @@ Ademas de ello también puedes contribuir a proyectos que se hallan en desarroll
 * Configurar tu perfil.  
 * Ir a repositorios y click en crear uno nuevo.  
 
-## ¿Cómo es un Repositorio en Github?
+## Anatomia de un Repositorio en Github
 
 Los también llamados *repos* estan alojados en un servidor de github. Los repositorios tienen una gran cantidad de formas para interactuar con ellos.
 
@@ -36,20 +36,56 @@ Los también llamados *repos* estan alojados en un servidor de github. Los repos
 
 <div align="center">
     <h5>Captura de pantalla de un repositorio</h5>
-    <p>Asi es como se ve un repositorio de forma completa</p>
-    <p>(Al menos sus elementos más importantes)</p>
-
+    <p>Asi es como se ve un repositorio de forma completa (Al menos sus elementos más importantes)</p>
 </div>
 
-Como pueden apreciar en la imagen anterior existe una gran cantidad de elementos en un repositorio de Github, entro los cuales podemos destacar:
+> Como pueden apreciar en la imagen anterior existe una gran cantidad de elementos en un repositorio de Github, entro los cuales podemos destacar:
+
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Repo1.png">
+</p>
 
 <div align="center">
-    <p>Dueño y Nombre del repositorio:</p>
+    <h5>Dueño y Nombre del repositorio: </h5>
+    <p>Aqui podemos ver quien es dueño de ese repositorio, si esta forkeado de algún otro y tambien el nombre del mismo</p>
 </div>
 
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Repo2.png">
+</p>
+
 <div align="center">
-    <p>Dueño y Nombre del repositorio:</p>
+    <h5>Watch, Stars y Forks </h5>
+    <p>Estos tres botones nos muestran cuantas personas siguen, les gusta o han forkeado el repo</p>
 </div>
+
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Repo3.png">
+</p>
+
+<div align="center">
+    <h5>Información sobre el repo</h5>
+    <p>Descripción, tags, versiones oficiales y contribuidores son lo que podemos ver en esta barra lateral </p>
+</div>
+
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Repo4.png">
+</p>
+
+<div align="center">
+    <h5>Visor de código </h5>
+    <p>Este visor nos dice los archivos, las ramas y nos permite navegar en el código </p>
+</div>
+
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Repo5.png">
+</p>
+
+<div align="center">
+    <h5>README</h5>
+    <p>El archivo README es uno de los más importantes en el repo, es donde describes a profundidad tu proyecto </p>
+</div>
+
 
 
 ## [Anterior 👈](Page7.md)  --  [👉 Siguiente](Page9.md)
