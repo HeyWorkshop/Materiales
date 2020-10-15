@@ -25,7 +25,7 @@ Antes de tomar el taller es necesario que los participantes tengan:
 
 ### ¿Qué es Github? (segunda parte)
 
--   [Introducción Github](/Workshops/GitGithub/Page7.md)
+-   [Repositorios Remotos y Github](/Workshops/GitGithub/Page7.md)
 -   [¿Qué es un Repositorio en Github?](/Workshops/GitGithub/Page8.md)
 -   [Sistema de contribuciones](/Workshops/GitGithub/Page9.md)
 -   [Forks y pull request](/Workshops/GitGithub/Page10.md)

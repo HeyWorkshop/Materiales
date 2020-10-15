@@ -1,7 +1,7 @@
-# **Repositorios remotos (GitHub y Bitbucket)**  
-Para poder colaborar en el desarrollo de un proyecto implementando Git, es necesario que sepas gestionar tus repositorios remotos, estos te permitirán trabajar en conjunto con tu equipo de trabajo.  
+# Repositorios remotos  
+Para poder colaborar en el desarrollo de un proyecto implementando Git, es necesario que sepas gestionar tus **repositorios** **remotos**, estos te permitirán trabajar en conjunto con tu equipo de trabajo.  
 
-Los repositorios remotos son versiones del proyecto alojados en la nube, que a diferencia de los repositorios locales, estos permiten que diversas personas colaboren y trabajen en el mismo proyecto facilitando y agilizando el desarrollo de este. De esta manera se pueden asignar ciertas funcionalidades a algún segmento del equipo para que cada parte contribuya en la integración del proyecto.  
+Los repositorios remotos son versiones del proyecto alojados en la **nube**, que a diferencia de los repositorios locales, estos permiten que diversas personas **colaboren** y trabajen en el mismo proyecto facilitando y agilizando el desarrollo de este. De esta manera se pueden asignar ciertas funcionalidades a algún segmento del equipo para que cada parte contribuya en la integración del proyecto.  
 ***
 # GitHub  
 [![github-mark.png](https://s5.postimg.org/suu4vwwtj/github_mark.png)](https://postimg.org/image/yvrtszjfn/)  
@@ -18,32 +18,6 @@ GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utiliz
 https://github.com/about  
 ***
 
-# Bitbucket  
-[![bitbucket_navy_400x400.png](https://s5.postimg.org/adzq53gvb/bitbucket_navy_400x400.png)](https://postimg.org/image/grot8clr7/)  
-Bitbucket es un servicio de alojamiento en la nube para proyectos que utilizan los sistemas de control de versiones Mercurial y Git.  
-### Características:  
-* Puedes alojar tus proyectos en la nube.
-* Te permite trabajar de manera colaborativa.
-* Puedes crear repositorios públicos y privados (Gratuitos, con ciertas limitaciones).
-* Puedes crear equipos de desarrollo.  
 
-**Más sobre Bitbucket:**  
-https://bitbucket.org/
-***
-
-# Gitlab 
-[![image.png](https://s26.postimg.org/aty0ibo2h/image.png)](https://postimg.org/image/7zuv4vlw5/)
-
-GitLab, un proyecto de código libre que se puede instalar en tu propio servidor y que te permite tener repositorios privados, sin costo.
-
-### Características:
-* Puedes alojar tus proyectos en la nube.
-* Puedes instalarlo en un servidor privado.
-* Te permite trabajar de manera colaborativa.
-* Puedes crear repositorios públicos y privados (Gratuitos, con ciertas limitaciones).
-* Puedes crear equipos de desarrollo.  
-
-**Más sobre Gitlab:**  
-https://gitlab.com/
 ***
 ## [Anterior](Page1.md)  --  [Siguiente](Page8.md)
