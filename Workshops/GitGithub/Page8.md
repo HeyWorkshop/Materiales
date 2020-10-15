@@ -36,6 +36,20 @@ Los también llamados *repos* estan alojados en un servidor de github. Los repos
 
 <div align="center">
     <h5>Captura de pantalla de un repositorio</h5>
+    <p>Asi es como se ve un repositorio de forma completa</p>
+    <p>(Al menos sus elementos más importantes)</p>
+
 </div>
+
+Como pueden apreciar en la imagen anterior existe una gran cantidad de elementos en un repositorio de Github, entro los cuales podemos destacar:
+
+<div align="center">
+    <p>Dueño y Nombre del repositorio:</p>
+</div>
+
+<div align="center">
+    <p>Dueño y Nombre del repositorio:</p>
+</div>
+
 
 ## [Anterior 👈](Page7.md)  --  [👉 Siguiente](Page9.md)
