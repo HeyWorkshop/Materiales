@@ -10,8 +10,6 @@ Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, p
 
 ## ¿Qué es un fork?  
 
-[![fork_button.jpg](https://s5.postimg.org/daehgn5t3/fork_button.jpg)](https://postimg.org/image/7m86pr1gj/)  
-
 Un **fork** es una copia exacta de un repositorio externo, que se anexa a nuestros repositorios pero con distinta URL. De esta manera podemos trabajar sobre un proyecto sin afectar al repositorio original.   
 
 **¿Qué diferencia hay entre un fork y un clon?**  
@@ -20,10 +18,9 @@ Cuando clonas un repositorio estás bajando una copia del mismo a tu máquina, y
 
 Cuando realizas un fork estás anexando una copia del repositorio original a tus repositorios personales, de esta forma puedes realizar todos los cambios y modificaciones que quieras y una vez que hagas <code>push</code> los cambios que hayas realizados se verán reflejados en la copia que está en tus repositorios. El repositorio original no se alterará.  
 
-***  
+  
 
-## Pull request  
-[![pullrequest.png](https://s5.postimg.org/f4rbydstj/pullrequest.png)](https://postimg.org/image/3seqglk4j/)  
+## Pull request
 
 Un pull request es una petición que realiza el propietario de un fork de un repositorio al propietario del repositorio original para que este incorpore los commits que se hallan en el fork.  
 
@@ -37,7 +34,4 @@ Un pull request es una petición que realiza el propietario de un fork de un rep
 
 El propietario del repositorio original deberá analizar los cambios y decidir si serán aceptados o no.  
 
-
-[![petition.png](https://s5.postimg.org/z0nbdx9uv/petition.png)](https://postimg.org/image/tp8et7ns3/)
-***
 ## [Anterior 👈](Page8.md)  --  [👉 Siguiente](Page10.md)
