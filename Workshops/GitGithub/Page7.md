@@ -14,9 +14,6 @@ Los repositorios remotos son versiones del proyecto alojados en la **nube**, que
     <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Github.png">
 </p>
 
-<p align="center">
-    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Github.png">
-</p>
 
 GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
 
