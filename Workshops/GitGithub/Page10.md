@@ -31,4 +31,4 @@ Los **Issues** son maneras de hacer seguimiento a errores, asignar tareas a alg�
 * Una vez que hayas teminado, haz click en **Submit new issue**.
 
 
-## [Anterior](Page9.md)  --  [Inicio](README.md)
+## [Anterior 👈](Page9.md)  --  [🏡 Inicio](README.md)
