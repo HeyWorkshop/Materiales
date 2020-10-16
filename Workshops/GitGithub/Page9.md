@@ -2,7 +2,11 @@
 
 Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, podríamos hacerlo a través de un **fork** y **pull request.**
  
-> Digamos que en un proyecto "X" que no es nuestro, surge algún bug y tú te das cuenta que podrías arreglarlo, para ello entonces realizas un **fork**, y en él comienzas a modificar el código hasta que solucionas el problema. Una vez solucionado es momento de incorporar esos cambios que hiciste en tu fork al repositorio original, para ello debes realizar un **pull request** y esperar a que el propietario o contribuidores del proyecto revisen lo que hiciste y entonces acepten tus modificaciones.  
+### Ejemplo:
+
+> Digamos que en un proyecto "X" que no es nuestro, surge algún bug y te das cuenta que podrías arreglarlo, para ello entonces realizas un **fork**, y en él comienzas a modificar el código hasta que solucionas el problema. 
+
+> Una vez solucionado es momento de incorporar esos cambios que hiciste en tu fork al repositorio original, para ello debes realizar un **pull request** y esperar a que el propietario o contribuidores del proyecto revisen lo que hiciste y entonces acepten tus modificaciones.  
 
 ## ¿Qué es un fork?  
 
