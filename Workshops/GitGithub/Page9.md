@@ -10,6 +10,10 @@ Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, p
 
 ## ¿Qué es un fork?  
 
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/GithubFork.png">
+</p>
+
 Un **fork** es una copia exacta de un repositorio externo, que se anexa a nuestros repositorios pero con distinta URL. De esta manera podemos trabajar sobre un proyecto sin afectar al repositorio original.   
 
 **¿Qué diferencia hay entre un fork y un clon?**  
@@ -21,6 +25,10 @@ Cuando realizas un fork estás anexando una copia del repositorio original a tus
   
 
 ## Pull request
+
+<p align="center">
+    <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/PullRequest.png">
+</p>
 
 Un pull request es una petición que realiza el propietario de un fork de un repositorio al propietario del repositorio original para que este incorpore los commits que se hallan en el fork.  
 
