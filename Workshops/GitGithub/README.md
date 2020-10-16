@@ -32,15 +32,6 @@ Antes de tomar el taller es necesario que los participantes tengan:
 -   [Issues](/Workshops/GitGithub/Page11.md)
 -   [Ejercicios](/Workshops/GitGithub/PAGE12.md)
 
-### Gitkraken (tercera parte)
-
--   [Introducción a repositorios remotos](/Workshops/GitGithub/Page7.md)
--   [¿Qué es GitHub y cómo funciona?](/Workshops/GitGithub/Page8.md)
--   [Trabajar con repositorios remotos](/Workshops/GitGithub/Page9.md)
--   [Forks y pull request](/Workshops/GitGithub/Page10.md)
--   [Issues](/Workshops/GitGithub/Page11.md)
--   [Ejercicios](/Workshops/GitGithub/PAGE12.md)
-
 ## Más allá de este material
 
 Para un estudio amplio y a profundidad de Git donde los conceptos se enfatizan sobre los comandos, véase [Manual definitivo de Git](https://github.com/HerCerM/ManualDefinitivoGit). No sólo los fundamentos son cubiertos, también temas intermedios y avanzados.
