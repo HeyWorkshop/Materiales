@@ -1,10 +1,9 @@
-# Forks y pull request  
+# El sistema de contribuciones
 
-Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, podríamos hacerlo a través de un fork y pull request.
-[![forklogo.png](https://s5.postimg.org/4qv3ivxgn/forklogo.png)](https://postimg.org/image/af1e9s1sz/)  
-**Ejemplo:**  
-Digamos que en un proyecto "X" que no es nuestro, surge algún bug y tú te das cuenta que podrías arreglarlo, para ello entonces realizas un **fork**, y en él comienzas a modificar el código hasta que solucionas el problema. Una vez solucionado es momento de incorporar esos cambios que hiciste en tu fork al repositorio original, para ello debes realizar un **pull request** y esperar a que el propietario o contribuidores del proyecto revisen lo que hiciste y entonces acepten tus modificaciones.  
-***
+Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, podríamos hacerlo a través de un **fork** y **pull request.**
+ 
+> Digamos que en un proyecto "X" que no es nuestro, surge algún bug y tú te das cuenta que podrías arreglarlo, para ello entonces realizas un **fork**, y en él comienzas a modificar el código hasta que solucionas el problema. Una vez solucionado es momento de incorporar esos cambios que hiciste en tu fork al repositorio original, para ello debes realizar un **pull request** y esperar a que el propietario o contribuidores del proyecto revisen lo que hiciste y entonces acepten tus modificaciones.  
+
 ## ¿Qué es un fork?  
 
 [![fork_button.jpg](https://s5.postimg.org/daehgn5t3/fork_button.jpg)](https://postimg.org/image/7m86pr1gj/)  
