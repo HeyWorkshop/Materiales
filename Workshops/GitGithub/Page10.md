@@ -1,40 +1,34 @@
-# El sistema de contribuciones
+# El sistema de Issues  
 
-Si en algún momento quisiéramos contribuir en un proyecto que no es nuestro, podríamos hacerlo a través de un **fork** y **pull request.**
- 
-> Digamos que en un proyecto "X" que no es nuestro, surge algún bug y tú te das cuenta que podrías arreglarlo, para ello entonces realizas un **fork**, y en él comienzas a modificar el código hasta que solucionas el problema. Una vez solucionado es momento de incorporar esos cambios que hiciste en tu fork al repositorio original, para ello debes realizar un **pull request** y esperar a que el propietario o contribuidores del proyecto revisen lo que hiciste y entonces acepten tus modificaciones.  
+Los **Issues** son maneras de hacer seguimiento a errores, asignar tareas a algún colaborador o para realizar mejoras. Digamos que surge algún bug en el proyecto, un usuario externo podría reportar este error, y una vez que el propietario del repositorio lo note entonces podrá asignar la tarea de repararlo a algún colaborador, esto también a tráves de un issue.  
+  
+## Características de los issues 
+  
+* Son usados para reportar errores, o posibles mejoras en el proyecto.  
 
-## ¿Qué es un fork?  
+* A través de un issue se pueden generar tareas para que algún contribuidor revise algo en particular del proyecto (un error o una mejora).  
 
-[![fork_button.jpg](https://s5.postimg.org/daehgn5t3/fork_button.jpg)](https://postimg.org/image/7m86pr1gj/)  
+* Puedes agregar etiquetas a los issues, esto te permite categorizar y filtrar la información fácilmente.  
+  
+* Milestones, esta clase de etiqueta te permite asociar issues con alguna característica en especial o fase del proyecto.
 
-Un **fork** es una copia exacta de un repositorio externo, que se anexa a nuestros repositorios pero con distinta URL. De esta manera podemos trabajar sobre un proyecto sin afectar al repositorio original.   
+* Puedes asignar la responsabilidad de un issue a algún colaborador del proyecto en un tiempo especificado.  
+  
+## Pasos para crear un issue
+  
+* En GitHub, navega a la página principal del repositorio.
 
-**¿Qué diferencia hay entre un fork y un clon?**  
+* Bajo el nombre de tu repositorio, haz click en **Issues**.
 
-Cuando clonas un repositorio estás bajando una copia del mismo a tu máquina, y una vez que realizas <code>push</code>, todos los cambios que hayas realizado se verán reflejados en el repositorio original.  
+* Click en **new issue**.
 
-Cuando realizas un fork estás anexando una copia del repositorio original a tus repositorios personales, de esta forma puedes realizar todos los cambios y modificaciones que quieras y una vez que hagas <code>push</code> los cambios que hayas realizados se verán reflejados en la copia que está en tus repositorios. El repositorio original no se alterará.  
+* Escribe un título y una descripción para tu **Issue**.
 
-***  
+* Si eres el administrador del repositorio puedes asignar la responsabilidad del Issue a algún colaborador.
 
-## Pull request  
-[![pullrequest.png](https://s5.postimg.org/f4rbydstj/pullrequest.png)](https://postimg.org/image/3seqglk4j/)  
+* Asigna al menos una etiqueta.
 
-Un pull request es una petición que realiza el propietario de un fork de un repositorio al propietario del repositorio original para que este incorpore los commits que se hallan en el fork.  
-
-**Para realizar un pull request**
-* El usuario debe especificar un asunto o título.
-
-* Se debe especificar qué cambios se realizaron y cuál fue el problema que se solucionó o la funcionalidad que se agregó.
-
-* Debe especificar qué rama desea incorporar y con cuál rama del repositorio original desea mezclarla.
-
-
-El propietario del repositorio original deberá analizar los cambios y decidir si serán aceptados o no.  
+* Una vez que hayas teminado, haz click en **Submit new issue**.
 
 
-[![petition.png](https://s5.postimg.org/z0nbdx9uv/petition.png)](https://postimg.org/image/tp8et7ns3/)
-
-
-## [Anterior](Page9.md)  --  [Siguiente](Page11.md)
+## [Anterior](Page9.md)  --  [Inicio](README.md)
