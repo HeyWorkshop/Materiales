@@ -21,7 +21,6 @@ Antes de tomar el taller es necesario que los participantes tengan:
 -   [Instalación y configuración](/Workshops/GitGithub/Page3.md)
 -   [Lo escencial](/Workshops/GitGithub/Page4.md)
 -   [Ramas](/Workshops/GitGithub/Page5.md)
--   [Fusiones](/Workshops/GitGithub/Page6.md)
 
 ### ¿Qué es Github? (segunda parte)
 

@@ -1,55 +1,42 @@
-# Lo escencial
-## Comandos básicos
+# Ramas (Branches)
 
-* `$ git init`
-Este comando marca el inicio de nuestro proyecto, aquí le decimos a Git que empiece a monitorear todos nuestros cambios.
+![Rama](Images/Rama.png)
 
-* `$ git status`
-Estado de nuestro proyecto.
+### ¿Qué es una rama?
 
-* `$ git add <Nombre del archivo/Path del archivo>` 
-Con este comando decidimos qué archivos están listos para el siguiente paso. **Nota:** Añadiendo <.> se agrega todo lo de la carpeta.
+Es una linea de tiempo en nuestro proyecto, que nos sirven para arreglar errores, experimentar, hacer grandes cambios, etc.
 
-* `$ git commit -m "Mensaje del commit"`
-Guardamos los cambios con un mensaje para identificarlos. 
+### Ejemplo práctico
 
-* `$ git commit --amend -m "Nuevo mensaje del commit"` Sobrescribimos el último commit con nuevos datos.
+Vamos a presentar un ejemplo simple de ramificar y de fusionar, con un flujo de trabajo que se podría presentar en la realidad. Imagina que sigues los siguientes pasos:
 
-* `$ git log`
-Nos da una lista de todos los commits de la **rama actual** con su respectiva información.  
+1. Trabajas en un sitio web.
+2. Creas una rama para un nuevo tema sobre el que quieres trabajar.
+3. Realizas algo de trabajo en esa rama.
 
-* `$ git reflog`
-Nos da una lista de los commits a los que `HEAD` y otras referencias (como ramas) han apuntado.
+En este momento, recibes una llamada avisándote de un problema crítico que has de resolver. Y sigues los siguientes pasos:
 
-* `$ git checkout <Nombre de la rama o identificador del commit>`
-Con este comando viajamos a través de nuestros commits o nuestras ramas.
- ***
+1. Vuelves a la rama de producción original.
+2. Creas una nueva rama para el problema crítico y lo resuelves trabajando en ella.
+3. Tras las pertinentes pruebas, fusionas (merge) esa rama y la envías (push) a la rama de producción.
+4. Vuelves a la rama del tema en que andabas antes de la llamada y continuas tu trabajo.
 
-## Comandos para ayuda
-
-* `$ git help <comando>`
-
-* `$ git <comando> --help`
-
-* `$ man git-<comando>`
-
-## Estados de los archivos
-
-Cada archivo de tu directorio de trabajo puede estar en uno de estos dos estados: 
-* Bajo seguimiento (**tracked**)
-* Sin seguimiento (**untracked**)
-
-Los archivos **bajo seguimiento** son aquellos que existían en la última instantánea; pueden estar: 
-* Sin modificaciones (**unmodified**) 
-* Modificados (**modified**)
-* preparados (**staged**)
-
-Los archivos **sin seguimiento** son todos los demás —cualquier archivo de tu directorio que no estuviese en tu última instantánea ni está en tu área de preparación—.
-
-A medida que editas archivos, Git los ve como modificados, porque los has cambiado desde tu última confirmación. Preparas estos archivos modificados y luego confirmas todos los cambios que hayas preparado, y el ciclo se repite.
-
-![File Status](Images/filestatus.jpg)
+![Trabajador](Images/trabajador.gif)
 
 ***
 
-## [Anterior 👈](Page3.md)  -  [👉 Siguiente](Page5.md)
+#### Head
+
+Head es en el commit donde nos encontramos. Es decir, que si nosotros hacemos un checkout, éste será nuestro head.
+
+![Head](Images/head.png)
+
+#### Rama Main
+
+La rama main es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+
+**Nota:** Esta rama suele usarse para tener las versiones "estables" de los proyectos.
+
+***
+
+## [Anterior 👈](Page3.md) -- ## [Inicio 👈](README.md)
