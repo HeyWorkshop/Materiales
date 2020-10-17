@@ -1,7 +1,8 @@
 # Introducción a Git
-## ¿Qué es?
+## Hola VCS's
 
-Es un sistema de control de versiones. Éste nos registra los cambios realizados en un archivo o conjunto de archivos.
+Un sistema de control de versiones (_version control system_ o _VCS_) es una herramienta de software que nos ayuda a llevar un control del desarrollo de un código a lo largo del tiempo. Los VCS llevan un registro sobre cada modificación del código en una base de datos especial de cada sistema.
+En esencia, hablamos de una herramienta que nos permite volver a versiones anteriores de nuestro proyecto, es decir, nos da la habilidad de volver en el tiempo.
 
 Nos permite:
 
@@ -12,13 +13,13 @@ Nos permite:
 
 ## Estados de trabajo
 
-* **Working directory:** Aquí es donde editamos y trabajamos con nuestros proyectos.
-* **Staging area:** Aquí es donde escogemos que archivos están listos para pasar al tercer estado, al igual que decidimos qué archivos no están listos por el momento.
-* **Repository:** Aquí está el registro de todo nuestro proyecto.
- 
-![Estados de trabajo](Images/States.png)
+<p align = "center"> 
+    <img src="Images/States.png">
+</p>
 
-![Workflow](Images/Workflow.png)
+* **Working tree:** El working tree simplemente son todos los archivos de la carpeta en la que se encuentra el .git. En este caso es una representación de todos los posibles archivos que podrían agregarse al repositorio local.
+* **Staging area:** En esta parte se deben definir los archivos junto con su estado para la siguiente versión del proyecto, en esencia, puedes describirlo como darle ordenes a git para saber que archivos se incluiran y si quieres omitir alguno de ellos.
+* **Local Repository:** Esta es la fase donde se almacenan los metadatos y los estados de los archivos, actuando como una base de datos para la gestión del proyecto.
 
 ***
 
