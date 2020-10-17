@@ -31,9 +31,9 @@ Head es en el commit donde nos encontramos. Es decir, que si nosotros hacemos un
 
 ![Head](Images/head.png)
 
-#### Rama Master
+#### Rama Main
 
-La rama master es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+La rama main es en donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
 
 **Nota:** Esta rama suele usarse para tener las versiones "estables" de los proyectos.
 
