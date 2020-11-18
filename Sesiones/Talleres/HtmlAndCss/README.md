@@ -1,3 +1,5 @@
+![Head](material/Head.png)
+
 ## ¿Qué es HTML y CSS?
 - **HTML** (Hypertext Markup Language) es un lenguaje de etiquetas, utilizado para definir la estructura de una página web.
 

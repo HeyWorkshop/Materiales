@@ -1,4 +1,4 @@
-![Head](https://github.com/WorkshopTechnology/Materiales/blob/master/Workshops/GitGithub/Images/Head.png)
+![Head](Images/Head.png)
 
 ## Descripción
 
