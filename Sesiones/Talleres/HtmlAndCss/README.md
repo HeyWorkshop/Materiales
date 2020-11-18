@@ -44,7 +44,7 @@ El objetivo del taller será el lograr entender que es _html_ y _css_, así como
 
 <div align="center">
 
-> Hecho con ❤️ por [Jorge Reyes](https://github.com/imreyesjorge) & [Miguel R. Ávila](https://github.com/MiguelRAvila)
+Hecho con ❤️ por [Jorge Reyes](https://github.com/imreyesjorge) & [Miguel R. Ávila](https://github.com/MiguelRAvila)
 
 </div>
 
