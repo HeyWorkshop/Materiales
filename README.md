@@ -26,8 +26,9 @@ Workshop es una organización centrada en crear conexiones entre personas y opor
 * El alumno se comprometerá con aportar conocimiento en la clase sobre alguna tecnología que desee.
 
 ### Nuestros Talleres
-* [¿Qué quiero programar?](/Workshops/QueQuieroProgramar/main.md)
-* [Introducción Git y Github](/Workshops/GitGithub/README.md)
+* [¿Qué quiero programar?](/Sesiones/Pláticas/QueQuieroProgramar/main.md)
+* [Introducción Git y Github](/Sesiones/Talleres/GitGithub/README.md)
+* * [Introducción Git y Github](/Sesiones/Talleres/HtmlAndCss/README.md)
 
 ### Nuestros Cursos
 * [Python: from zero to hero](https://github.com/VictorLaraL/PythonBegginers)
