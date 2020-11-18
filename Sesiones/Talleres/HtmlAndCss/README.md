@@ -8,8 +8,6 @@
 
 ###### Si quieres saber más, puedes visitar la [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss).
 
-&nbsp;
-
 ## Objetivo del Taller
 
 El objetivo del taller será el lograr entender que es _html_ y _css_, así como conocer algunos conceptos fundamentales y motivar a investigar para aprender mucho más sobre estas dos tecnologías.
@@ -41,4 +39,6 @@ El objetivo del taller será el lograr entender que es _html_ y _css_, así como
 
 > **HIPERVÍNCULO**: Se llama _hipervínculo_ o _hiperenlace_ a un tipo de elemento presente en los documentos electrónicos que hace alusión a otro documento diferente, a una parte específica del mismo documento o a otro recurso de cualquier naturaleza, como búsquedas online, mecanismos de compra, suscripciones, etc.
 
-> Hecho con ❤️ por [Jorge Reyes](https://github.com/imreyesjorge/HTMLyCSS)
+
+> Repositorio original:
+> Hecho con ❤️ por [Jorge Reyes](https://github.com/imreyesjorge) & [Miguel R. Ávila](https://github.com/MiguelRAvila)
