@@ -12,13 +12,13 @@ El objetivo del taller será el lograr entender que es *html* y *css*, así como
 
 ## Temas
 - [¿Qué es *HTML*?](material/html1.md)
-	- [Etiquetas](/material/html2.md)
-	- [Clases e ID's](/material/html3.md)
-	- [Etiquetas: `<style>` y `<link>`](/material/html4.md)
-- [¿Qué es *CSS*?](/material/css1.md)
-	- [Selectores](/material/css2.md)
-	- [Propiedades](/material/css3.md)
-- [Ejercicio: Mi primera página web](/material/ejercicio.md)
+	- [Etiquetas](material/html2.md)
+	- [Clases e ID's](material/html3.md)
+	- [Etiquetas: `<style>` y `<link>`](material/html4.md)
+- [¿Qué es *CSS*?](material/css1.md)
+	- [Selectores](material/css2.md)
+	- [Propiedades](material/css3.md)
+- [Ejercicio: Mi primera página web](material/ejercicio.md)
 
 
 ###### [Ejemplos de CSS | CssZenGarden](http://www.csszengarden.com/)
