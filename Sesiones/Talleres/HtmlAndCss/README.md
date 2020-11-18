@@ -28,3 +28,5 @@ El objetivo del taller será el lograr entender que es *html* y *css*, así como
 
 > **HIPERVÍNCULO**: Se llama *hipervínculo* o _hiperenlace_ a un tipo de elemento presente en los documentos electrónicos  que hace alusión a otro documento diferente, a una parte específica del mismo documento o a otro recurso de cualquier naturaleza, como búsquedas online, mecanismos de compra, suscripciones, etc.
 
+
+> Hecho con ❤️ por [Jorge Reyes](https://github.com/imreyesjorge/HTMLyCSS)
