@@ -1,7 +1,6 @@
-
-# HTML
-
-![Image](HtmlHead.png)
+<p align="center">
+  <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Sesiones/Talleres/HtmlAndCss/material/HtmlHead.png">
+</p>
 
 Podemos ver a **html** como el esqueleto de una página web, es el encargado de establecer que contenido va a tener la página en sí. 
 
