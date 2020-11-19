@@ -7,7 +7,7 @@ Para poder editar sólo los elementos que nosotros deseemos existen los *selecto
 
 *Teniendo los elementos de HTML con sus debidas clases y/o ID's, ahora podemos proceder a seleccionarlos con CSS para poder modificarlos:*
 
-**Elemento:** se usa unicamente el nombre de la etiqueta `p`
+**Elemento:** se usa únicamente el nombre de la etiqueta `p`
 ```css 
 p {
     

@@ -2,7 +2,7 @@
 ## Propiedades
 Una propiedad es una regla que el documento .html tiene que seguir según sea declarado en el archivo .css
 
-Ej. Digamos que queremos cambiar el color de texto de todos los parrafos a verde. Para eso necesitamos primero seleccionar el elemento al que deseemos aplicar las propiedades.
+Ej. Digamos que queremos cambiar el color de texto de todos los párrafos a verde. Para eso necesitamos primero seleccionar el elemento al que deseemos aplicar las propiedades.
 ```css
 p {
 
