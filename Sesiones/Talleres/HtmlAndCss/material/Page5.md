@@ -9,4 +9,4 @@ p {
 ```
 ###### Dónde `p` es el *selector*, `color` la *propiedad* y `green` el *valor* de esa propiedad.
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page4.md)  -  [👉 Siguiente](Page6.md)

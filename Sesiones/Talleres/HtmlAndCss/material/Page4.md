@@ -50,4 +50,4 @@ p {
 
 Las dos maneras de declarar las reglas css realizarán lo mismo, pero cabe recalcar que es una buena práctica tener las reglas css en un archivo aparte, de esta forma es más fácil manipular tanto el html como el css.
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page3.md)  -  [👉 Siguiente](Page5.md)

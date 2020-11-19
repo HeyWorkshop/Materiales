@@ -26,4 +26,4 @@ p {
 }
 ```
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page5.md)  -  [👉 Siguiente](Page7.md)

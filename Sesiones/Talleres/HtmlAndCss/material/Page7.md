@@ -28,4 +28,4 @@ Propiedad | Valor de ejemplo | Definición
 `font-size` | 15px | Cambia el tamaño de la fuente a 15px
 
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page6.md)  -  [👉 Ejercicio](ejercicio.md)

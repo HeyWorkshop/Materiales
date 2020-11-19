@@ -12,4 +12,4 @@
 
 ### Checa este ejemplo (con explicaciones): [Link](https://codepen.io/jorgert1205/pen/jOOWRRQ)
 
-#### [INICIO](../README.md)
+## [🏘️ Inicio](../README.md)

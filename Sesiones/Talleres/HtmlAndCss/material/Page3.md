@@ -19,4 +19,4 @@ Tenemos:
 
 Por el momento, sólo tengamos en mente que nos sirven para clasificar las etiquetas según "grupos" que nosotros escogamos (los id, son sólamente para un único elemento).
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page2.md)  -  [👉 Siguiente](Page4.md)
