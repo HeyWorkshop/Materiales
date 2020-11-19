@@ -1,6 +1,7 @@
 
 # HTML
-![html](http://www.innovafire.com/sites/default/files/blog/html.jpg)
+
+![Image](HtmlHead.png)
 
 Podemos ver a **html** como el esqueleto de una página web, es el encargado de establecer que contenido va a tener la página en sí. 
 
