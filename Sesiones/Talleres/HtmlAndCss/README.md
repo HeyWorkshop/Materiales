@@ -16,16 +16,16 @@ El objetivo del taller será el lograr entender que es _html_ y _css_, así como
 
 ### ¿Qué es HTML?
 
--   [¿Qué es _HTML_?](material/html1.md)
--   [Etiquetas](material/html2.md)
--   [Clases e ID's](material/html3.md)
--   [Etiquetas: `<style>` y `<link>`](material/html4.md)
+-   [¿Qué es _HTML_?](material/Page1.md)
+-   [Etiquetas](material/Page2.md)
+-   [Clases e ID's](material/Page4.md)
+-   [Etiquetas: `<style>` y `<link>`](material/Page4.md)
 
 ### ¿Qué es CSS?
 
--   [¿Qué es _CSS_?](material/css1.md)
--   [Selectores](material/css2.md)
--   [Propiedades](material/css3.md)
+-   [¿Qué es _CSS_?](material/Page5.md)
+-   [Selectores](material/Page6.md)
+-   [Propiedades](material/Page7.md)
 
 ### Ejercicio
 
