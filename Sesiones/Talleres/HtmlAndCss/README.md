@@ -4,7 +4,7 @@
 
 -   **HTML** (Hypertext Markup Language) es un lenguaje de etiquetas, utilizado para definir la estructura de una página web.
 
--   **CSS** (Cascading Style Sheets) es un lenguaje para definir el estilo de la página web. Refiriendonos a como se va a ver la página (_tamaños, colores, posición, etc..._).
+-   **CSS** (Cascading Style Sheets) es un lenguaje para definir el estilo de la página web. Refiriéndonos a cómo se va a ver la página (_tamaños, colores, posición, etc..._).
 
 ###### Si quieres saber más, puedes visitar la [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss).
 
