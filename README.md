@@ -1,4 +1,6 @@
-![Logo Workshop](./Imagenes/head.png)
+<p align="center">
+    <img align="center" src="https://github.com/HeyWorkshop/Materiales/blob/master/Imagenes/head.png" alt="linkedin" height="200px" />
+</p>
 
 > ### Los materiales de todas nuestras actividades
 
