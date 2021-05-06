@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://github.com/HeyWorkshop/Materiales/blob/master/Imagenes/head.png" alt="linkedin" height="200px" />
+    <img align="center" src="https://github.com/HeyWorkshop/Materiales/blob/master/Imagenes/head.png" alt="head" />
 </p>
 
 > ### Los materiales de todas nuestras actividades
